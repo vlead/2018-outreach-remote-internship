@@ -1,0 +1,30 @@
+#+Title: Virtual Labs Outreach Internship Model 
+#+Date: [2018-07-23 Mon]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+options: ^:nil
+
+* Introduction
+  This document outlines the model for Virtual Labs Outreach
+  Internship at VLEAD, IIIT Hyderabad. The objective of the
+  internship is to improve the existing Virtual Labs.
+
+* The process
+  We would offer a 8 weeks of internship program for the
+  selected students to accomplish the same. The plan is to
+  provide an internship to the engineering college students
+  based on the [[]selection process]]. The entire program is
+  divided into 2 phases :
+
+  + Phase 1 : In this phase all the students are given with
+    the links of training videos for GitHub, Javascript,
+    Java and Bash/Shell scripting by the VLEAD outreach
+    team. Students are expected to work remotely in fixing
+    the issues/bugs and contact VLEAD team at IIIT Hyderabad
+    campus through SLACK for any problems and challenges.
+
+  + Phase 2 : Will be updated soon.
+
+  The entire internship is planned for a duration of 6-8
+  weeks inclusive of both the phases. The start date would
+  be 1st October, 2018.

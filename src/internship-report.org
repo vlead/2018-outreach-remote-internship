@@ -1,0 +1,17 @@
+#+Title: Outreach Internship Report 
+#+Date: [2018-07-17 Tue]
+#+PROPERTY: results output
+#+PROPERTY: exports code
+#+options: ^:nil
+
+* Introduction
+  This document captures the overall report for Outreach
+  Internship at VLEAD.
+
+* Executive Summary 
+ 
+   
+* Outreach Internship Details
+** Facts    
+** Summary & Opinions 
+   
