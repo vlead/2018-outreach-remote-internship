@@ -7,12 +7,11 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This document details phase 1 Selection process for the
-  outreach intership program. This process would be followed
-  by phase 2 
-  after the interns start resolving the issues for the IIIT
-  H labs. Based on the fix, it would be reviewed by the
-  VLEAD team and accepted/rejected.
+  This document details about the phase 1 process for the
+  outreach remote intership program. This process would be
+  followed by phase 2 after the students start resolving the
+  issues for the IIIT H labs. Based on the fix, it would be
+  reviewed by the VLEAD team and accepted/rejected.
 
 * Motivation
   This internship program is conducted to motivate students
@@ -25,30 +24,12 @@
   reach to as many colleges as possible.
 
 * Process
-** Phase 2 - Validation and Review (Selected interns)
-   [[./docs/phase2-validation.org][Link for the document]]
+** Phase 1 - Bug fixing process
+   [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/validation-%26-review/docs/phase1-process.org][Link for the document]]
 
 * Logistics
-** Prize Money
-   Based on the issues resolved and the total points attained (S1:5,
-   S2:3, S3:1), we can have a leaderboard depicting all the interns
-   rankwise and award cash prizes/vouchers to the top 3 interns every
-   week or so. At the end of the program, every intern would at least
-   earn a certificate and others who performed well would also earn
-   cash prizes along with the certificates.
 
 * Fallback plans
-** A. Calling up MSIT students
-   In case we do not the expected response from the college students
-   or they do not raise issues which are valid enough for the next
-   phase of the program or they are not capable to resolve the issues
-   raised, we would try and call MSIT students housed at IIITH itself
-   and provide the same perks and advantages to make this program a
-   success.
-** B. Calling up IIITH students
-   In case Plan A also doesn's work out due to unforeseen constraints,
-   we would connect with IIITH students itself for this internship
-   activity.
 
 * Conclusion
   The labs would be improved as part of this program giving us an edge
