@@ -23,7 +23,9 @@
     the issues/bugs and contact VLEAD team at IIIT Hyderabad
     campus through SLACK for any problems and challenges.
 
-  + Phase 2 : Will be updated soon.
+  + Phase 2 : As per the discussion on hangouts students will
+    be working on adobe flash, java3 conversion to
+    JavaScript and also building new experiments.
 
   The entire internship is planned for a duration of 6-8
   weeks inclusive of both the phases. The start date would
