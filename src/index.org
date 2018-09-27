@@ -1,6 +1,6 @@
-#+TITLE: Story Board for Outreach Internship Program
+#+TITLE: Story Board for Outreach Remote Internship Program
 #+AUTHOR: VLEAD
-#+DATE: [2018-04-12 Mon]
+#+DATE: [2018-09-27 Thu]
 #+SETUPFILE: ./org-templates/level-0.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
@@ -8,9 +8,8 @@
 
 * Introduction
   This document details to story board along with summary
-  and timelines for the outreach intership program.
-  by the students to participate in the Virtual Labs
-  internship program.
+  and timelines for the outreach remote internship program
+  for the students to participate in the same.
 
 * Motivation
   This internship program is conducted to motivate students
@@ -23,54 +22,47 @@
   reach to as many colleges as possible.
 
 * Summary at a glance
- |------+-------------------------------------+----------------------+-----------------------------------+---------|
- | S.no | Activity                            | Timeline             | Remarks/link                      | Status  |
- |------+-------------------------------------+----------------------+-----------------------------------+---------|
- |   1. | Mail to NC                          | 31st August, 2018    | Initial mail for participation    | Done    |
- |      |                                     |                      | which would be forwarded to all   |         |
- |      |                                     |                      | students by the NCs               |         |
- |------+-------------------------------------+----------------------+-----------------------------------+---------|
- |   2. | Deadline for                        | 28th September, 2018 | The forms would have the GitLab   | Backlog |
- |      | filling up application forms        | 06:00 P.M. IST       | handle of the students where they |         |
- |      |                                     |                      | have logged issues                |         |
- |------+-------------------------------------+----------------------+-----------------------------------+---------|
- |   3. | Validation and review of the logged |                      |                                   | Backlog |
- |      | defects by VLEAD team               |                      |                                   |         |
- |------+-------------------------------------+----------------------+-----------------------------------+---------|
- |   4. | Mail to the selected students for   |                      |                                   | Backlog |
- |      | the internship                      |                      |                                   |         |
- |------+-------------------------------------+----------------------+-----------------------------------+---------|
- |   5. | Weekly review process for resolved  |                      |                                   | Backlog |
- |      | issues by VLEAD team                |                      |                                   |         |
- |------+-------------------------------------+----------------------+-----------------------------------+---------|
- |   6. | 1st week review                     |                      |                                   | Backlog |
- |------+-------------------------------------+----------------------+-----------------------------------+---------|
- |   7. | 2nd Week review                     |                      |                                   | Backlog |
- |------+-------------------------------------+----------------------+-----------------------------------+---------|
- |   8. | 3rd Week review                     |                      |                                   | Backlog |
- |------+-------------------------------------+----------------------+-----------------------------------+---------|
- |   9. | 4th Week review                     |                      |                                   | Backlog |
- |------+-------------------------------------+----------------------+-----------------------------------+---------|
- |  10. | Final review                        |                      |                                   | Backlog |
- |------+-------------------------------------+----------------------+-----------------------------------+---------|
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ | S.no | Activity                           | Timeline             | Remarks/link                     | Status  |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |   1. | Mail to NC                         | 31st August, 2018    | Initial mail for participation   | Done    |
+ |      |                                    |                      | which would be forwarded to all  |         |
+ |      |                                    |                      | students by the NCs              |         |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |   2. | Deadline for                       | 28th September, 2018 | The forms would have the details | Done    |
+ |      | filling up application forms       | 06:00 P.M. IST       | of the students                  |         |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |   3. | Deadline extension mail for        | 30th September, 2018 |                                  | Done    |
+ |      | filling up application forms       | 06:00 P.M. IST       |                                  |         |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |   4. | Mail to the selected students for  |                      |                                  | Backlog |
+ |      | the internship                     |                      |                                  |         |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |   5. | Weekly review process for resolved |                      |                                  | Backlog |
+ |      | issues by VLEAD team               |                      |                                  |         |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |   6. | 1st week review                    |                      |                                  | Backlog |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |   7. | 2nd Week review                    |                      |                                  | Backlog |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |   8. | 3rd Week review                    |                      |                                  | Backlog |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |   9. | 4th Week review                    |                      |                                  | Backlog |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |  10. | Final review                       |                      |                                  | Backlog |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
 
-
-* Presentation 
-  Please find the [[https://docs.google.com/presentation/d/e/2PACX-1vTFrGFqQntwqI1R5SeuAJOZOurBt72ZKbPEv98xgPWTRfg_Aak5J3-L7y9m82zL-v3N56dCfKeYyCz2/pub?start=false&loop=false&delayms=3000][presentation link]] for the entire process captured
-  and approved. This presentation has the initial dates when this
-  program was proposed to Choppella sir for approval. Later the dates
-  have been extended based on the examination schedules in different
-  Nodal Centers.
 
 * Process
-** [[./phase1][Phase 1]]
+** [[https://github.com/vlead/2018-outreach-remote-internship/tree/develop/src/phase1][Phase 1]]
+
 * Logistics
-** Prize Money
    
 * Conclusion
-  Based on the issues raised the students would be given an
-  opportunity to work as an intern in virtual labs and also contribute
-  in a mission mode MHRD project. The labs would be improved as part
-  of this program giving us an edge in outreach programs by connecting
-  to the different Nodal Coordinators across the state.
+  Based on the issues fixed by the students,they would be
+  given an opportunity to work as an intern in virtual labs
+  and also contribute in a mission mode MHRD project. The
+  labs would be improved as part of this program giving us
+  an edge in outreach programs by connecting to the
+  Nodal centers and other colleges across the state.
   
