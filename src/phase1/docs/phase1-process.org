@@ -1,4 +1,4 @@
-#+TITLE: Phase 1 : Exploring Virtual Labs 
+#+TITLE: Phase 1 : Understanding Virtual Labs 
 #+AUTHOR: VLEAD
 #+DATE: [2018-04-25 Wed]
 #+SETUPFILE: ./org-templates/level-0.org
