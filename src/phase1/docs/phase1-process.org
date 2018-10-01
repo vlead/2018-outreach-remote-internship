@@ -68,12 +68,12 @@
   + Step 2 - Attest the signature in a paper.
   + Step 3 - Scan the feedback form and signature
     documents. 
-  Note: you can scan through Android applications like
+  *Note*: You can scan through Android applications like
     CamScanner etc.,
   + Step 4 - Click the [[https://docs.google.com/forms/d/e/1FAIpQLSeKq20ij9C7fjxqY7giIu3h2jEhGQiLYImS3nQob-Pyq6O58g/viewform][form]] to submit your feedback form.
 
 * Conclusion
   After the receiving of the feedback forms, Shortlisting of
   students will be done. The deadline for submitting the
-  feedback form is 05 October, 2018.
+  feedback form is *05 October, 2018*.
 
