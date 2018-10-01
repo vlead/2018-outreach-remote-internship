@@ -57,11 +57,16 @@
   + Step 8 - After Performing the experiment, make sure that
     you note the experiment name in the feedback form
     document. 
-  + Step 9 - You need to perform atleast 10-15 experiments
+  + Step 9 - You need to perform atleast 15 experiments
     of any labs and note them in the feedback form
     document. 
   + Step 10 - Make sure that you answer 4 questions on the
     feedback form.
+  + Step 11 - Please fill in your motivation or interest in
+    doing the experiments in the Virtual Lab, before you
+    start the experiment, then after 5, after 10 and
+    after 15. Rate your motivation or interest on a scale of
+    1 to 10.
  
 * Submit the feedback form
   + Step 1 - Fill the feedback form (2 Pages) document.
