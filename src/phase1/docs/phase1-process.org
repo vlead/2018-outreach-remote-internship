@@ -30,7 +30,7 @@
     building new experiments for Virtual Labs.
 
 * Prerequisites 
-  + Download the feedback form from the [[https://drive.google.com/file/d/1Ss1GRPb5N74-1shuT-L8QdBnYn_O3jE_/view][link]]. 
+  + Download the feedback form from the [[https://docs.google.com/document/d/1zjk0TcVgw7afm3kRtmDaRuIv-8eP4Z2D4EXiBYBVp94/edit?usp=sharing][link]]. 
   + The following are the required software installations.
     + [[http://get.adobe.com/flashplayer/][Adobe Flash]]
     + [[https://www.java.com/en/download/help/windows_manual_download.xml][Java]] (Click on "Download and Install")
