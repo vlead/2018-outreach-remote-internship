@@ -1,6 +1,6 @@
-a#+TITLE: Phase 1 Process
+#+TITLE: Phase 1 Selection for Outreach Internship Program
 #+AUTHOR: VLEAD
-#+DATE: [2018-10-01 Mon]
+#+DATE: [2018-09-26 Wed]
 #+SETUPFILE: ./org-templates/level-0.org
 #+TAGS: boilerplate(b)
 #+EXCLUDE_TAGS: boilerplate
@@ -9,7 +9,10 @@ a#+TITLE: Phase 1 Process
 * Introduction
   This document details about the phase 1 process for the
   outreach remote intership program. This process would be
-  followed by phase 2 and phase 3. 
+  followed by phase 2 after the students start resolving the
+  issues for the IIIT H labs. Based on the fix, it would be
+  reviewed by the VLEAD team and accepted/rejected.
+
 * Motivation
   This internship program is conducted to motivate students
   from the Nodal center colleges to contribute towards this
@@ -21,17 +24,15 @@ a#+TITLE: Phase 1 Process
   reach to as many colleges as possible.
 
 * Process
-** Phase 1 - Exploring the experiments
+** Phase 1 - Bug fixing process
    [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/validation-%26-review/docs/phase1-process.org][Link for the document]]
 
 * Logistics
-  - Students were asked to download the feedback form. Fill
-    the form attested with signature and scan the feedback
-    form using scanner app like CamScanner or any other and
-    send the filled form back to us in mail.
 
 * Fallback plans
 
 * Conclusion
-  The phase1 would help us in the shortlisting the students
-  for bug fixing (phase2).
+  The labs would be improved as part of this program giving us an edge
+  in outreach programs by connecting to the different Nodal
+  Coordinators across the state.
+  

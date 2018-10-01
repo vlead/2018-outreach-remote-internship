@@ -1,4 +1,4 @@
-#+TITLE: Phase 1 : Fixing and Validation of raised issues
+#+TITLE: Phase 1 : Exploring Virtual Labs 
 #+AUTHOR: VLEAD
 #+DATE: [2018-04-25 Wed]
 #+SETUPFILE: ./org-templates/level-0.org
@@ -8,86 +8,72 @@
 
 * Introduction
   This document describes the process to be followed by the
-  interested students who wish to contribute to the open
-  source community for resolving the issues GitHub.
+  students who registered for Virtual Labs remote internship
+  and also interested in contributing to the open source
+  community like GitHub.
 
-* Link for lab code repositories
-  Please use this [[https://github.com/virtual-labs/][link]] for the IIIT-Hyderabad lab code
-  repositories for the issues. The IIIT hyderabad labs which
-  needs to be fixed would have a naming convention of
-  <labname>-iiith. Please go through all the repos existing
-  here. You are free to pick up any issues to fix. 
+* Process
+  The process of internship is segregated in 3 phase.
+  + Phase 1 : In this phase feedback forms are sent to the
+    students. They were asked to browse 10 IIIT-H
+    experiments and fill the feedback form and return to
+    us. Based on the feedback form sent the students will be
+    shortlisted and selected for phase 2.
+  + Phase 2 : In this phase students will be fixing the bugs
+    in GitHub of Virtual Labs. The detailed steps are
+    explained elaborately below. Once you meet the selection
+    criteria in phase 1. You will be selected as intern and
+    would be moved to phase 2 of the outreach remote
+    internship.
+  + Phase 3 : Selected interns will be working conversion of
+    experiments adobe flash, Java3D to JavaScript and
+    building new experiments for Virtual Labs.
 
-* Status of issues
-  At any given time an issue should only be in one of the
-  below described states. Since issues cannot be assigned
-  labels by students(as they don't have access to
-  virtual-labs organisation), any of these labels can be
-  given as a comment under the issue.
-
-  - *Open* : This indicates that when an issue is
-    logged and posted for the first time, it would be
-    labelled as 'Open'.
-
-  - *In Progress* : This indicates that Open issues
-    while being worked upon by the student/intern would be
-    labelled as 'In Progress'.
-
-  - *Fixed* : This indicates that the issue has been fixed by the
-    student in their forked GitHub repository. Only the students can
-    mark the issue as fixed. Validators would only validate fixed
-    issues.
-
-  - *Resolved* : This indicates that when validators reviews the
-    fixes then they can label the issue as Resolved. Only the
-    validators can mark the issue as Resolved.
-
-  - *Reopen* : This indicates that if an issue surfaces during
-    testing in the staging and production environments, the Virtual
-    Labs team would label it as 'Reopen'.
-
-  - *Closed* : This label indicates that Resolved issues would be
-    labelled as 'Closed' by the Virtual Labs team members after they
-    pass the deployment tests. This label means that the issue is
-    resolved, tested and approved and is ready to go for production
-    deployment.
-
-* Steps to be followed by the interns
-  + Step 1 - Choose a lab for which you want to start resolving the
-    issues. Select the lab repository from [[https://github.com/virtual-labs/][GitHub]].
-  + Step 2 - Fork the lab repository so that you have the local copy
-    of the lab codebase in your machine.
-  + Step 3 - Go to the issues section in the repo and pick up the
-    issue you want to start resolving. Label the issue as *open*.
-  + Step 4 - Make changes in your forked copy of the lab repo, [[https://docs.google.com/presentation/d/1HlGjkacVdE7-3FRc8x8RKEUJiTmfnrxqe8BX4ZjnSNI/edit?usp=sharing][commit]]
-    the changes and create a pull request.
-  + Step 5 - After you create the pull request, update the same issue
-    with *commit id* of the code changes for which you created a pull
-    request. Comment on the issue as *fixed*.
-  + Step 6 - Once the issue has comment as *fixed* , provide the issue
-    link on Slack channel for 2 members to validate the fix. One
-    member could be from the same college but the other validator must
-    be from some other college. Both the validators must also review
-    the fixes and respond on the same issue with the comment that the
-    issue fix is correct.
-  + Step 7 - Once the issue gets reviewed and approved by the 2
-    validators, the Virtual Labs team would review the fix for the
-    final acceptance. If the issue fix is accepted by the Virtual Labs
-    team also, it would be labelled as *resolved*.
-  + Step 8 - After you see the issue labelled as *resolved* and more
-    than one student was working on the issue simultaneously, consider
-    that the issue is fixed no more fixes would be accepted by any
-    other student.
-  + Step 9 - Switch to some other issue when you see an issue labelled
-    as *resolved*. It would still not be marked as *closed* because it
-    would be undergoing the deployment testing by the Virtual Labs
-    team.
-
-    This is an iterative cycle and it goes on till the end of the
-    marked period for all the selected students. This marked period is
-    till 01st october, 2018.
+* Prerequisites 
+  + Download the feedback form from the [[https://drive.google.com/file/d/1Ss1GRPb5N74-1shuT-L8QdBnYn_O3jE_/view][link]]. 
+  + The following are the required software installations.
+    + [[http://get.adobe.com/flashplayer/][Adobe Flash]]
+    + [[https://www.java.com/en/download/help/windows_manual_download.xml][Java]] (Click on "Download and Install")
+    + [[http://download.oracle.com/otn-pub/java/java3d/1.5.1/java3d-1_5_1-windows-amd64.exe][Java3d]] (Package: j3d-1_5_2-linux-amd64)
+  
+* Steps to be followed for browsing the labs in Virtual Labs
+  + Step 1 - Open your Web Browser. Type
+    http://iiith.vlabs.ac.in/ and press Enter (or) Click
+    [[http://iiith.vlabs.ac.in/][here]]. This will be redirect you Virtual Labs IIITH  website.
+  + Step 2 - Click on "Labs" menu on the menu bar/header.
+  + Step 3 - Hover on other disciplines and click on your
+    respective discipline/branch.
+  + Step 4 - Step 3 takes you to the list of labs of the
+    selected discipline/branch.  
+  + Step 5 - Click any lab you wish to perform that takes
+    you to the Experiment page. Click on "Experiments/List
+    of experiments" in the left menu bar. This takes you to
+    the list of experiments page.
+  + Step 6 - Click on any experiment. It will redirects you
+    the Introduction of respective experiment. 
+  + Step 7 - To perform any experiment, Click on
+    "Simulation/Experiment" and you can start performing the
+    experiments of Virtual Labs.
+  + Step 8 - After Performing the experiment, make sure that
+    you note the experiment name in the feedback form
+    document. 
+  + Step 9 - You need to perform atleast 10-15 experiments
+    of any labs and note them in the feedback form
+    document. 
+  + Step 10 - Make sure that you answer 4 questions on the
+    feedback form.
+ 
+* Submit the feedback form
+  + Step 1 - Fill the feedback form (2 Pages) document.
+  + Step 2 - Attest the signature in a paper.
+  + Step 3 - Scan the feedback form and signature
+    documents. 
+  Note: you can scan through Android applications like
+    CamScanner etc.,
+  + Step 4 - Click the [[https://docs.google.com/forms/d/e/1FAIpQLSeKq20ij9C7fjxqY7giIu3h2jEhGQiLYImS3nQob-Pyq6O58g/viewform][form]] to submit your feedback form.
 
 * Conclusion
-  After the validation process, the issues would be considered as
-  resolved and moved to production.
+  After the receiving of the feedback forms, Shortlisting of
+  students will be done. The deadline for submitting the
+  feedback form is 05 October, 2018.
 

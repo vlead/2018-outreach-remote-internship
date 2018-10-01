@@ -1,0 +1,74 @@
+#+TITLE: Outreach Intership Program 
+#+AUTHOR: VLEAD
+#+DATE: [2018-04-17 Tue]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Draft e-mail for Virtual Labs Outreach Internship Program
+  
+Dear Nodal Coordinator,
+
+Greetings for the day.
+
+Welcome to Virtual Labs Internship @ IIITH !!!
+
+We are happy to announce a two month 'During Semester remote
+Internship Program' for students from the Nodal Center
+colleges. We are sure that your students will be delighted
+to participate in this Internship Program.
+
+We are forwarding you a draft mail that you can directly
+send to students in your college. We solicit your help in
+motivating the students to take up this internship as many
+students have done in the past in summer.
+
+We request you to do the needful and ensure that there is
+good participation from your college students in this
+initiative, which is intended to provide internship and
+experience with open source and other technologies.
+
+The details of the program are given in the mail to the
+students and the poster. We request you to print the
+attached poster in color and put it up in your college.
+
+====================================================================
+
+Dear Students,
+
+Virtual Labs IIITH announces its 'During Semester remote
+Internship Program' starting from September 1st week. We
+invite you to apply for this Program. This is an internship
+that you can participate in, while your semester is going
+on.
+
+To Apply,  fill in the registration form at this Link.
+
+By joining and participating, you will benefit in the
+following ways:
+
+    Develop hands on experience in open source
+    technologies - Java Script, Python, Java, GitHub, Linux,
+    etc Get recognized for your good performance.  Get
+    Internship Certificates by contributing to code fixes.
+
+
+Why this is a good Opportunity:
+
+    New AICTE guidelines, provide 14 credits for the
+    industry exposure via internships(At the the discretion
+    of your college).  Studies show that students who did
+    internships received at least one job offer compared
+    students who did not.  Doing such internships prepare
+    you to take up work in Mini/Major projects, to meet
+    curriculum requirements.
+
+
+We encourage all of you to participate in the upcoming
+internship programs. We are planning to conduct this every
+semester so that maximum number of students are benefited
+from this program.  We look forward to your joining this
+Internship.
+
+For any clarifications, please write to us @internship@vlabs.ac.
