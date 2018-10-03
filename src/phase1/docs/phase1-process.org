@@ -71,9 +71,9 @@
     feedback form.
   + Step 12 - Please fill in your motivation or interest in
     doing the experiments in the Virtual Lab, before you
-    start the experiment, then after 5, after 10 and
-    after 15. Rate your motivation or interest on a scale of
-    1 to 10.
+    start the experiment, then after 5 experiments, after 10
+    experiments and after 15 experiments. Rate your motivation or
+    interest on a scale of 1 to 10.
  
 * Submit the feedback form
   + Step 1 - Fill the feedback form (2 Pages) document.
