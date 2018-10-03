@@ -9,29 +9,29 @@
 * Introduction
   This document describes the process to be followed by the
   students who registered for Virtual Labs remote internship
-  and also interested in contributing to the open source
+  and are also interested in contributing to the open source
   community like GitHub.
 
 * Process
   The process of internship is segregated in 3 phase.
   + Phase 1 : In this phase feedback forms are sent to the
-    students. They were asked to browse 15 IIIT-H
+    students. They were asked to browse 10 IIIT-H
     experiments and fill the feedback form and return to
     us. Based on the feedback form sent the students will be
-    shortlisted and selected for phase 2.
-  + Phase 2 : In this phase students will be fixing the bugs
-    in GitHub of Virtual Labs. The detailed steps are
-    explained elaborately below. Once you meet the selection
-    criteria in phase 1. You will be selected as intern and
+    shortlisted and selected for phase 2.The detailed steps are
+    explained elaborately below.
+  + Phase 2 : .  Once you meet the selection
+    criteria in phase 1, you will be selected as intern and
     would be moved to phase 2 of the outreach remote
-    internship.
+    internship.In this phase you will be fixing the bugs
+    in GitHub of Virtual Labs
   + Phase 3 : Selected interns will be working conversion of
     experiments adobe flash, Java3D to JavaScript and
     building new experiments for Virtual Labs.
 
 * Prerequisites 
   + Download the feedback form from the [[https://drive.google.com/file/d/1FBkH8uMY8OgdNLUw4laE6kn6i0Q5hjeI/view?usp=sharing][link]]. 
-  + The following are the required software installations.
+  + The following are the required software installations required on your machine.
     + [[http://get.adobe.com/flashplayer/][Adobe Flash]]
     + [[https://www.java.com/en/download/help/windows_manual_download.xml][Java]] (Click on "Download and Install")
     + [[http://download.oracle.com/otn-pub/java/java3d/1.5.1/java3d-1_5_1-windows-amd64.exe][Java3d]] (Package: j3d-1_5_2-linux-amd64)
@@ -62,8 +62,8 @@
     please make sure that Adobe flash is installed and
     allowed for the web Browser.
   + Step 9 - After Performing the experiment, make sure that
-    you note the experiment name in the feedback form
-    document. 
+    you note the lab name and the experiment name in the feedback form
+    document, whether it worked or not and any other remarks.
   + Step 10 - You need to perform atleast 15 experiments
     of any labs and note them in the feedback form
     document. 
@@ -77,12 +77,12 @@
  
 * Submit the feedback form
   + Step 1 - Fill the feedback form (2 Pages) document.
-  + Step 2 - Attest the signature in a paper.
-  + Step 3 - Scan the feedback form and signature
-    documents. 
+  + Step 2 - After filling the feedback form, print it and sign 
+  the printed feedback form. 
+  + Step 3 - Scan the filled in feedback form. 
   *Note*: You can scan through Android applications like
     CamScanner etc.,
-  + Step 4 - Click the [[https://docs.google.com/forms/d/e/1FAIpQLSeKq20ij9C7fjxqY7giIu3h2jEhGQiLYImS3nQob-Pyq6O58g/viewform][form]] to submit your feedback form.
+  + Step 4 - Click the [[https://docs.google.com/forms/d/e/1FAIpQLSeKq20ij9C7fjxqY7giIu3h2jEhGQiLYImS3nQob-Pyq6O58g/viewform][form]] to upload the scaned document and the corresponding word document. Submit.
 
 * Conclusion
   After the receiving of the feedback forms, Shortlisting of
