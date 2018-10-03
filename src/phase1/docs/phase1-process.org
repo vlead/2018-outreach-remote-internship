@@ -15,7 +15,7 @@
 * Process
   The process of internship is segregated in 3 phase.
   + Phase 1 : In this phase feedback forms are sent to the
-    students. They were asked to browse 10 IIIT-H
+    students. They were asked to browse 15 IIIT-H
     experiments and fill the feedback form and return to
     us. Based on the feedback form sent the students will be
     shortlisted and selected for phase 2.The detailed steps are
@@ -31,7 +31,7 @@
 
 * Prerequisites 
   + Download the feedback form from the [[https://drive.google.com/file/d/1FBkH8uMY8OgdNLUw4laE6kn6i0Q5hjeI/view?usp=sharing][link]]. 
-  + The following are the required software installations required on your machine.
+  + The following software installations are required on your machine.
     + [[http://get.adobe.com/flashplayer/][Adobe Flash]]
     + [[https://www.java.com/en/download/help/windows_manual_download.xml][Java]] (Click on "Download and Install")
     + [[http://download.oracle.com/otn-pub/java/java3d/1.5.1/java3d-1_5_1-windows-amd64.exe][Java3d]] (Package: j3d-1_5_2-linux-amd64)
