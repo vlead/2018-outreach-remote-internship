@@ -77,12 +77,13 @@
  
 * Submit the feedback form
   + Step 1 - Fill the feedback form (2 Pages) document.
-  + Step 2 - After filling the feedback form, print it and sign 
-  the printed feedback form. 
-  + Step 3 - Scan the filled in feedback form. 
+  + Step 2 - After filling the feedback form, print it and
+    sign the printed feedback form.
+  + Step 3 - Scan the filled in feedback form.
   *Note*: You can scan through Android applications like
     CamScanner etc.,
-  + Step 4 - Click the [[https://docs.google.com/forms/d/e/1FAIpQLSeKq20ij9C7fjxqY7giIu3h2jEhGQiLYImS3nQob-Pyq6O58g/viewform][form]] to upload the scaned document and the corresponding word document. Submit.
+  + Step 4 - Click the [[https://docs.google.com/forms/d/e/1FAIpQLSeKq20ij9C7fjxqY7giIu3h2jEhGQiLYImS3nQob-Pyq6O58g/viewform][form]] to upload the scaned document
+    and the corresponding word document. Submit.
 
 * Conclusion
   After the receiving of the feedback forms, Shortlisting of
