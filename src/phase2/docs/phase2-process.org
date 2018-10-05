@@ -1,0 +1,78 @@
+#+TITLE: Phase 2 : Fixing and Validation of raised issues
+#+AUTHOR: VLEAD
+#+DATE: [2018-04-25 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document describes the process to be followed by the
+  interested students who wish to work for Virtual Labs
+  remotr internship and contribute to the open source
+  community like GitHub.
+* Process
+  The process of internship is segregated in 2 phase.
+  + Phase 1 : In this phase students will be fixing the bugs
+    in GitHub of Virtual Labs. The detailed steps are
+    explained elaborately below. Once you meet the selection
+    criteria in phase 1. You will be selected as intern and
+    would be moved to phase 2 of the outreach remote
+    internship.
+  + Phase 2 : Selected interns will be working conversion of
+    experiments adobe flash, Java3D to JavaScript and
+    building new experiments for Virtual Labs.
+
+* Link for lab code repositories
+  Please use this [[https://github.com/virtual-labs/][link]] for the IIIT-Hyderabad lab code
+  repositories for the issues. The IIIT hyderabad labs which
+  needs to be fixed would have a naming convention of
+  <labname>-iiith. Please go through all the repos existing
+  here. You are free to pick up any issues to fix. 
+
+* Steps to be followed for fixing issues.
+  + Step 1 - Choose a lab for which you want to start resolving the
+    issues. Select the lab repository from [[https://github.com/virtual-labs/][Virtual Labs]].
+  + Step 2 - Fork the lab repository so that you have the local copy
+    of the lab codebase in your machine.
+  + Step 3 - Go to the issues section in the repository and
+    pick up any issue with "bug" or "functionality" or
+    "enhancement" or and you can to start resolving.
+  + Step 4 - Make changes in your forked copy of the lab repo, [[https://docs.google.com/presentation/d/1HlGjkacVdE7-3FRc8x8RKEUJiTmfnrxqe8BX4ZjnSNI/edit?usp=sharing][commit]]
+    the changes and create a pull request.
+  + Step 5 - After you create the pull request, update the same issue
+    with *commit id* of the code changes for which you created a pull
+    request. Comment on the issue as *fixed*.
+  + Step 6 - Once the issue has comment as *fixed* , provide the issue
+    link on Slack channel for 2 members to validate the fix. One
+    member could be from the same college but the other validator must
+    be from some other college. Both the validators must also review
+    the fixes and respond on the same issue with the comment that the
+    issue fix is correct.
+  + Step 7 - Once the issue gets reviewed and approved by the 2
+    validators, the Virtual Labs team would review the fix for the
+    final acceptance. If the issue fix is accepted by the Virtual Labs
+    team also, it would be labelled as *resolved*.
+  + Step 8 - After you see the issue labelled as *resolved* and more
+    than one student was working on the issue simultaneously, consider
+    that the issue is fixed no more fixes would be accepted by any
+    other student.
+  + Step 9 - Switch to some other issue when you see an issue labelled
+    as *resolved*. It would still not be marked as *closed* because it
+    would be undergoing the deployment testing by the Virtual Labs
+    team.
+
+    This is an iterative cycle and it goes on till the end of the
+    marked period for all the selected students. This marked period is
+    till 01st october, 2018.
+
+* Selection Criteria
+  The following will be considered in the internship
+  selection process
+  - Number of issues fixed.
+  - Number of issues validated.
+  - Type of issues resolved.
+* Conclusion
+  After the validation process, the issues would be considered as
+  resolved and moved to production.
+

@@ -1,0 +1,40 @@
+#+TITLE: Outreach Intership Program 
+#+AUTHOR: VLEAD
+#+DATE: [2018-04-17 Tue]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Draft e-mail for phase 1 Outreach Internship Program
+  Dear Student,
+  Greeting from Virtual Labs IIIT - Hyderabad !!!
+  
+  Thank you for your interest in Virtual Labs remote
+  internship program. We are happy to share that we received
+  more than 850+ applicants and have internship
+  opportunities for all of you. The internship program has 3
+  phases that includes improving your understanding of
+  Virtual Labs.
+  
+  We are happy to initiate Phase1 of the program. In this
+  phase, students will access and use Virtual Labs
+  experiments, understand the environment and provide their
+  understanding in the form of a feedback form. Further
+  steps in each of the phase are detailed in the document
+  available at this [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/docs/phase1-process.org][link]]. Please follow the instructions
+  given in the document and submit your results accordingly.
+  
+  Students accessing >=10 experiments across
+  labs/disciplines of their choice are more likely to be
+  shortlisted for Phase 2.
+  
+  The last date for the completion of phase 1 is 5th
+  October,2018 12 Midnight
+  
+  We look forward to your active participation in the
+  program.  For any queries, please send an email to us at
+  internship@vlabs.ac.in
+  
+  Thanks,
+  Virtual Labs Team.
