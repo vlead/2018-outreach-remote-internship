@@ -1,4 +1,4 @@
-#+TITLE: Phase 2 : Fixing and Validation of raised issues
+#+TITLE: Phase 2 : Fixing and Validation of issues in Virtual Labs
 #+AUTHOR: VLEAD
 #+DATE: [2018-04-25 Wed]
 #+SETUPFILE: ./org-templates/level-0.org
