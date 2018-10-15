@@ -65,7 +65,7 @@ Note to Mrudvika - Are they aware of the slack channel ?
   + Step 3 - Once you test the fix by throughly testing it, you should add a comment 
     in the issue as *Validated - 1* or *Validated-2* depending upon whether you are
     the first or the second validator.
-  
+    
  * Lifecycle of a fixed and validated issue 
   + Step 1 - Once a fixed issue gets reviewed and validated by the 2
     validators, the Virtual Labs team would review the fix for the
