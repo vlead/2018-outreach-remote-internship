@@ -12,58 +12,69 @@
   remote internship and contribute to the open source
   community like GitHub.
 * Process
-  The Phase2 of the internship includes 2 parts.
-  + Part 1 : Fixing an issues/bugs in the [[https://github.com/virtual-labs/][Virtual Labs]]
+  The Phase 2 of the internship includes 3 parts.
+  + Part 1 : Understanding Git - An open source Version Control Tool.
+  + Part 2 : Fixing issues/bugs in the [[https://github.com/virtual-labs/][Virtual Labs]]
     repository.
-  + Part 2 : Validating a fixed issue. 
+  + Part 3 : Validating fixed issue. 
 
-* Link for lab code repositories
-  Please use this [[https://github.com/virtual-labs/][link]] for the IIIT Hyderabad lab code
-  repositories for the issues. The IIIT Hyderabad labs which
-  needs to be fixed would have a naming convention of
-  <labname>-iiith. Please go through all the repos existing
-  here. You are free to pick up any issues to fix. 
+* Part 1 - 
+  + Step 1 - Fiollow the link to access the video of a Git tutorial by Virtual Labs.
+  + Step 2 - Practice the learning by creating dummy repositories.
+  + Estimated time for learning and practicing would be 3 hours. 
 
-* Steps to be followed for picking and fixing an issue
-  + Step 1 - Choose a lab for which you want to start
+* Part 2 
+** Link for lab code repositories
+   Please use this [[https://github.com/virtual-labs/][link]] for the IIIT Hyderabad lab code
+   repositories for the issues. The IIIT Hyderabad labs which
+   needs to be fixed would have a naming convention of
+   <labname>-iiith. Please go through all the repos existing
+   here. You are free to pick up any issues to fix. 
+
+** Steps to be followed for picking and fixing an issue
+   + Step 1 - Choose a lab for which you want to start
     resolving the issues. Select the lab repository from
     [[https://github.com/virtual-labs/][Virtual Labs]].
-  + Step 2 - [[https://help.github.com/articles/fork-a-repo/][Fork]] the lab repository so that you have the
-    local copy of the lab codebase in your machine.
-  + Step 3 - Go back to the main repository of the Virtual
-    Labs you  have picked. Click on the issues
-    section. *Filter* search bar would display *is:issue is:open*
-    To this just add *label:2018-Open* in the filters
-    search bar. Look through the displayed issues and pick any issue with [[https://help.github.com/articles/about-labels/][labels]] *label:2018-Open*.
-  + Step 4 - Start making the code changes in the
-    forked repository to resolve the selected issue/bug.
-  + Step 5 - Test the issue with the changed functionality. 
-  + Step 6 - Push the code and [[https://docs.google.com/presentation/d/1HlGjkacVdE7-3FRc8x8RKEUJiTmfnrxqe8BX4ZjnSNI/edit?usp=sharing][commit]] the code changes in
+   + Step 2 - [[https://help.github.com/articles/fork-a-repo/][Fork]] the lab
+     repository so that you have the
+     local copy of the lab codebase in your machine.
+   + Step 3 - Go back to the main repository of the Virtual
+     Labs you  have picked. Click on the issues
+     section. *Filter* search bar would display *is:issue is:open*
+     To this just add *label:2018-Open* in the filters
+     search bar. Look through the displayed issues and pick any issue
+     with [[https://help.github.com/articles/about-labels/][labels]] *label:2018-Open*.
+   + Step 4 - Start making the code changes in the
+     forked repository to resolve the selected issue/bug.
+   + Step 5 - Test the issue with the changed functionality. 
+   + Step 6 - Push the code and [[https://docs.google.com/presentation/d/1HlGjkacVdE7-3FRc8x8RKEUJiTmfnrxqe8BX4ZjnSNI/edit?usp=sharing][commit]] the code changes in
     the forked repository.
-  + Step 7 - For every fixed issue create a pull request.
-  + Step 8 - To create a pull request click on *Pull requests*
-    on the menu bar in your repository. Then click on 
-    *New pull request*. Then you will see *Comparing changes*.
-    basefork:<<lab name that you have picked >>
-  + Step 9 - After you create the pull request, update the issue that you have fixed
-    with the *commit id* of the code changes for which you created a pull
-    request. Comment on the issue as *fixed*.
-  + Step 10 - Once the issue has the comment as *fixed* , provide the issue
-    link on Slack channel and request for validation.
-Note to Mrudvika - Are they aware of the slack channel ?
+   + Step 7 - For every fixed issue create a pull request.
+   + Step 8 - To create a pull request click on *Pull requests*
+     on the menu bar in your repository. Then click on 
+     *New pull request*. Then you will see *Comparing changes*.
+     basefork:<<lab name that you have picked >>
+   + Step 9 - After you create the pull request, update the issue that you have fixed
+     with the *commit id* of the code changes for which you created a pull
+     request. Comment on the issue as *fixed*.
+   + Step 10 - Once the issue has the comment as *fixed* , provide the issue
+     link on Slack channel and request for validation.
 
-* Steps for the validating an issue
-  + Step 1 - Every fixed issue/bug
-    should be validated by 2 members. Validators should be from different colleges
-    and not from the same college as the student fixing the issue. Both the
-    validatos must review the fixes and respond on the
-    same issue with the comment *Validated - 1* or *Validated - 2*. 
-  + Step 2 - As a validator, you can pick fixed issues from the Slack channel.
-    Make sure that it has not been already validated by going through the 
-    comments in the issues.
-  + Step 3 - Once you validate the fix by throughly testing it, you should add a comment 
-    in the issue as *Validated - 1* or *Validated - 2* depending upon whether you are
-    the first or the second validator.
+*Note to Mrudvika - Are they aware of the slack channel ?*
+
+* Part 3 
+ * Steps for the validating an issue
+   + Step 1 - Every fixed issue/bug
+     should be validated by 2 members. Validators should be from different colleges
+     and not from the same college as the student fixing the issue. Both the
+     validatos must review the fixes and respond on the
+     same issue with the comment *Validated - 1* or *Validated - 2*. 
+   + Step 2 - As a validator, you can pick fixed issues from the Slack channel.
+     Make sure that it has not been already validated by going through the 
+     comments in the issues.
+   + Step 3 - Once you validate the fix by throughly testing it, you should add a comment 
+     in the issue as *Validated - 1* or *Validated - 2* depending upon whether you are
+     the first or the second validator.
     
  * Lifecycle of a fixed and validated issue 
   + Step 1 - Once a fixed issue gets reviewed and validated by the 2
