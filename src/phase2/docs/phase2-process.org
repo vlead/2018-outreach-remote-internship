@@ -17,11 +17,16 @@
   + Part 2 : Fixing issues/bugs in the [[https://github.com/virtual-labs/][Virtual Labs]]
     repository.
   + Part 3 : Validating fixed issue. 
+ *Note : Make sure that you have accepted the invitation
+ that we have sent to your mail*
 
-* Part 1 - 
-  + Step 1 - Fiollow the link to access the video of a Git tutorial by Virtual Labs.
-  + Step 2 - Practice the learning by creating dummy repositories.
-  + Estimated time for learning and practicing would be 3 hours. 
+* Part 1 
+  - Step 1 - Click on [[https://en.wikipedia.org/wiki/GitHub][link]] to learn about the git.
+  - Step 2 - Install [[https://github.com/git-for-windows/git/releases/tag/v2.19.1.windows.1][Git Bash]] on your Laptops/ PCs.
+  - Step 3 - Sign up and Sign in to  GitHub. 
+  - Step 4 - Practice the learning by creating dummy repositories.
+  - Step 5 - [[https://github.com/new][Create]] a new repository.
+  - Estimated time for learning and practicing would be 3 hours. 
 
 * Part 2 
 ** Link for lab code repositories
@@ -59,8 +64,6 @@
      request. Comment on the issue as *fixed*.
    + Step 10 - Once the issue has the comment as *fixed* , provide the issue
      link on Slack channel and request for validation.
-
-*Note to Mrudvika - Are they aware of the slack channel ?*
 
 * Part 3 
  * Steps for the validating an issue
