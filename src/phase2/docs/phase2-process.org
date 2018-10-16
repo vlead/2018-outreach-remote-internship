@@ -30,10 +30,10 @@
     [[https://github.com/virtual-labs/][Virtual Labs]].
   + Step 2 - [[https://help.github.com/articles/fork-a-repo/][Fork]] the lab repository so that you have the
     local copy of the lab codebase in your machine.
-  + Step 3 - Go back to the main repository of the Virual
+  + Step 3 - Go back to the main repository of the Virtual
     Labs you  have picked. Click on the issues
-    section. Filter search bar would display *is:issue is:open*
-    Just add *label:2018-Open* in the filters
+    section. *Filter* search bar would display *is:issue is:open*
+    To this just add *label:2018-Open* in the filters
     search bar. Look through the displayed issues and pick any issue with [[https://help.github.com/articles/about-labels/][labels]] *label:2018-Open*.
   + Step 4 - Start making the code changes in the
     forked repository to resolve the selected issue/bug.
@@ -41,12 +41,12 @@
   + Step 6 - Push the code and [[https://docs.google.com/presentation/d/1HlGjkacVdE7-3FRc8x8RKEUJiTmfnrxqe8BX4ZjnSNI/edit?usp=sharing][commit]] the code changes in
     the forked repository.
   + Step 7 - For every fixed issue create a pull request.
-  + Step 8 - To create a pull request click on pull request
-    in your repository. Click on *New pull request*. Then
-    you will see *Comparing changes*. basefork:<<lab name
-    that you have picked >>
+  + Step 8 - To create a pull request click on *Pull requests*
+    on the menu bar in your repository. Then click on 
+    *New pull request*. Then you will see *Comparing changes*.
+    basefork:<<lab name that you have picked >>
   + Step 9 - After you create the pull request, update the issue that you have fixed
-    with *commit id* of the code changes for which you created a pull
+    with the *commit id* of the code changes for which you created a pull
     request. Comment on the issue as *fixed*.
   + Step 10 - Once the issue has the comment as *fixed* , provide the issue
     link on Slack channel and request for validation.
@@ -56,14 +56,13 @@ Note to Mrudvika - Are they aware of the slack channel ?
   + Step 1 - Every fixed issue/bug
     should be validated by 2 members. Validators should be from different colleges
     and not from the same college as the student fixing the issue. Both the
-    validator must review the fixes and respond on the
-    same issue with the comment that the *issue fix is
-    correct*.  
+    validatos must review the fixes and respond on the
+    same issue with the comment *Validated - 1* or *Validated - 2*. 
   + Step 2 - As a validator, you can pick fixed issues from the Slack channel.
     Make sure that it has not been already validated by going through the 
     comments in the issues.
-  + Step 3 - Once you test the fix by throughly testing it, you should add a comment 
-    in the issue as *Validated - 1* or *Validated-2* depending upon whether you are
+  + Step 3 - Once you validate the fix by throughly testing it, you should add a comment 
+    in the issue as *Validated - 1* or *Validated - 2* depending upon whether you are
     the first or the second validator.
     
  * Lifecycle of a fixed and validated issue 
@@ -73,8 +72,8 @@ Note to Mrudvika - Are they aware of the slack channel ?
     team also then  you would see the comment *Fix is validated
     and ready for production*. 
   + Step 2 - If you see the comment as *Fix is validated
-    and ready for production* in any issue consider that the
-    issue has been fixed and no more fixes would be accepted. 
+    and ready for production* in any issue consider that
+    issue as fixed and no more fixes would be accepted. 
   + Step 3 - Do not pick issues which have label as resolved 
     (label:resolved).
 
