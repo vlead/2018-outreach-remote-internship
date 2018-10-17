@@ -18,10 +18,9 @@
     repository.
   + Part 3 : Validating fixed issue. 
     
-*NOTE : Make sure that you have accepted the invitation that
-*we have sent to your mail.*
-*NOTE : Make sure that you use the same github profile that
-*you have submitted in the application form*
+*NOTE : Make sure that you have accepted the invitation that we have sent to your mail.*
+
+*NOTE : Make sure that you use the same github profile that you have submitted in the application form.*
 
 
 * Part 1 
