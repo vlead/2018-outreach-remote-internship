@@ -8,6 +8,7 @@
 
 * Draft e-mail for Introduction to Git
   Dear  Student,
+  
   Greeting from Virtual Labs IIIT - Hyderabad!
   
   We congratulate you for the successful completion of
