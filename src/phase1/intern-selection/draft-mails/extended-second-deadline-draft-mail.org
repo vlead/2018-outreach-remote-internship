@@ -1,0 +1,35 @@
+#+TITLE: Outreach Intership Program 
+#+AUTHOR: VLEAD
+#+DATE: [2018-04-17 Tue]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Draft e-mail for Extended deadline 
+  Dear Student,
+  
+  Thank you for the overwhelming responses!
+  
+  Although, we have received a huge number of responses,
+  some of you may have missed the due date in spite of your
+  strong desire to register.
+  
+  In order to enable those of you who have not been able to
+  complete the phase 1 process with in the due date we are
+  extending the last date till Thursday 11th October,2018
+  23:59.
+  
+  Now don't miss this second opportunity and send your
+  submissions before 11th October, 2018 23:59.
+  
+  New applicants, please follow the link for the details of
+  the phase 1 process.
+  
+  We will be sending the next steps(Phase 2) in this
+  internship program to the shortlisted students on Friday
+  12th October, 2018.
+  
+  Thanks,
+  Virtual Labs Team.
+  
