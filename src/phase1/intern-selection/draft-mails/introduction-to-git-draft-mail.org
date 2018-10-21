@@ -1,0 +1,48 @@
+#+TITLE: Outreach Intership Program 
+#+AUTHOR: VLEAD
+#+DATE: [2018-04-17 Tue]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Draft e-mail for Introduction to Git
+  Dear  Student,
+  Greeting from Virtual Labs IIIT - Hyderabad!
+  
+  We congratulate you for the successful completion of
+  phase 1.
+  
+  In order to move to the next phase and do internship it is
+  necessary for you to do the following:
+
+  + Install Git Bash on your Laptops/ PCs.
+  + Learn how to use GitHub and how to work with Github.
+  
+  
+  You must then:  
+  Sign up and Sign in to  GitHub.
+  Create a new repository.
+  
+  Use the following naming convention for you
+  repositories.
+  
+  Once you do the above, you are ready to start work in
+  Phase 2 of this Remote internship program.
+  
+  You should complete the above listed work by Monday end
+  of day ( 15th October 2018) and send us:
+  
+  Your Github handle
+
+  Post an Issue giving a 5 line description of what you have
+  learnt and how it will be used in this project.
+  
+  
+  We will send you the next instructions on the next steps (
+  Phase 2) on Monday next (23rd October 2018).
+  Till then happy learning and a Happy Dusheera. 
+
+  Thanks and Regards,
+  Virtual Labs Team.
+
