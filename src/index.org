@@ -29,33 +29,39 @@
  |      |                                    |                      | which would be forwarded to all  |         |
  |      |                                    |                      | students by the NCs              |         |
  |------+------------------------------------+----------------------+----------------------------------+---------|
- |   2. | Deadline for                       | 28th September, 2018 | The forms would have the details | Done    |
- |      | filling up application forms       | 06:00 P.M. IST       | of the students                  |         |
+ |   2. | Deadline for                       | 28th September, 2018 | The [[https://docs.google.com/forms/d/e/1FAIpQLSetr49t7zd9ygpKFh1mhTAE5tcf78cbf5caRUNSofnsq9E7rQ/viewform][forms]] would have the details | Done    |
+ |      | filling up application forms       | 06:00 P.M. IST       | of the students - 968 responses  |         |
  |------+------------------------------------+----------------------+----------------------------------+---------|
- |   3. | Deadline extension mail for        | 30th September, 2018 |                                  | Done    |
+ |   3. | Deadline extension mail for        | 30th September, 2018 | [[Y][Link]]                             | Done    |
  |      | filling up application forms       | 06:00 P.M. IST       |                                  |         |
  |------+------------------------------------+----------------------+----------------------------------+---------|
- |   4. | Extended deadline mail for         | 09th October,2018    |                                  | Done    |
- |      | second time                        | 04:: P.M. IST        |                                  |         |
- |------+------------------------------------+----------------------+----------------------------------+---------|
- |   4. | Mail to the selected students for  |                      |                                  | Backlog |
- |      | the internship                     |                      |                                  |         |
- |------+------------------------------------+----------------------+----------------------------------+---------|
- |   5. | Extended internship mail           |                      |                                  |         |
+ |   4. | Draft mail for Phase 1 process     |                      |                                  |         |
  |      |                                    |                      |                                  |         |
  |------+------------------------------------+----------------------+----------------------------------+---------|
- |   6. | Weekly review process for resolved |                      |                                  | Backlog |
+ |   4. | Extended deadline mail for         | 09th October,2018    | [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/intern-selection/draft-mails/extended-second-deadline-draft-mail.org][Link]]                             | Done    |
+ |      | phase 1                            | 04:: P.M. IST        |                                  |         |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |   5. | Draft mail for Introduction to git |                      | [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/intern-selection/draft-mails/introduction-to-git-draft-mail.org][Link]]                             | Backlog |
+ |      |                                    |                      |                                  |         |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |   6. | Mail to the selected students for  |                      |                                  | Backlog |
+ |      | the internship                     |                      |                                  |         |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |   7. | Extended internship mail           |                      |                                  |         |
+ |      |                                    |                      |                                  |         |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |   8. | Weekly review process for resolved |                      |                                  | Backlog |
  |      | issues by VLEAD team               |                      |                                  |         |
  |------+------------------------------------+----------------------+----------------------------------+---------|
- |   7. | 1st week review                    |                      |                                  | Backlog |
+ |   9. | 1st week review                    |                      |                                  | Backlog |
  |------+------------------------------------+----------------------+----------------------------------+---------|
- |   8. | 2nd Week review                    |                      |                                  | Backlog |
+ |  10. | 2nd Week review                    |                      |                                  | Backlog |
  |------+------------------------------------+----------------------+----------------------------------+---------|
- |   9. | 3rd Week review                    |                      |                                  | Backlog |
+ |  11. | 3rd Week review                    |                      |                                  | Backlog |
  |------+------------------------------------+----------------------+----------------------------------+---------|
- |  10. | 4th Week review                    |                      |                                  | Backlog |
+ |  12. | 4th Week review                    |                      |                                  | Backlog |
  |------+------------------------------------+----------------------+----------------------------------+---------|
- |  11. | Final review                       |                      |                                  | Backlog |
+ |  13. | Final review                       |                      |                                  | Backlog |
  |------+------------------------------------+----------------------+----------------------------------+---------|
 
 * Process
