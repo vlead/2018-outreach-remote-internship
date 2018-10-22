@@ -14,16 +14,16 @@
   We congratulate you for the successful completion of
   phase 1.
   
-  In order to move to the next phase and do internship it is
+  In order to move to the next phase of the internship it is
   necessary for you to do the following:
 
   + Install Git Bash on your Laptops/ PCs.
-  + Learn how to use GitHub and how to work with Github.
+  + Learn how to use [[https://guides.github.com/activities/hello-world/][GitHub]] and how to work with Github.
   
   
   You must then:  
   Sign up and Sign in to  GitHub.
-  Create a new repository.
+  [[https://help.github.com/articles/create-a-repo/][Create]] a new repository.
   
   Use the following naming convention for you
   repositories.

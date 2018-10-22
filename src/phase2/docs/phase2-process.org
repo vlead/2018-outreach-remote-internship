@@ -25,7 +25,7 @@
 
 * Part 1 
   - Step 1 - Click on [[https://en.wikipedia.org/wiki/GitHub][link]] to learn about the git.
-  - Step 2 - Install [[https://github.com/git-for-windows/git/releases/tag/v2.19.1.windows.1][Git Bash]] on your Laptops/ PCs.
+  - Step 2 - Install [[https://help.github.com/articles/create-a-repo/][Git Bash]] on your Laptops/ PCs.
   - Step 3 - Sign up and Sign in to  GitHub. 
   - Step 4 - Practice the learning by creating dummy repositories.
   - Step 5 - [[https://github.com/new][Create]] a new repository.
@@ -43,68 +43,84 @@
    + Step 1 - Choose a lab for which you want to start
     resolving the issues. Select the lab repository from
     [[https://github.com/virtual-labs/][Virtual Labs]].
-   + Step 2 - [[https://help.github.com/articles/fork-a-repo/][Fork]] the lab
-     repository so that you have the
+   + Step 2 - [[https://help.github.com/articles/fork-a-repo/][Fork]] the lab repository so that you have the
      local copy of the lab codebase in your machine.
    + Step 3 - Go back to the main repository of the Virtual
-     Labs you  have picked. Click on the issues
-     section. *Filter* search bar would display *is:issue is:open*
-     To this just add *label:2018-Open* in the filters
-     search bar. Look through the displayed issues and pick any issue
-     with [[https://help.github.com/articles/about-labels/][labels]] *label:2018-Open*.
+     Labs you have picked. Click on the issues
+     section. *Filter* search bar would display *is:issue
+     is:open* To this just add *label:2018-Open* in the
+     filters search bar. Look through the displayed issues
+     and pick any issue with [[https://help.github.com/articles/about-labels/][labels]] *label:2018-Open*.
    + Step 4 - Start making the code changes in the
      forked repository to resolve the selected issue/bug.
    + Step 5 - Test the issue with the changed functionality. 
    + Step 6 - Push the code and [[https://docs.google.com/presentation/d/1HlGjkacVdE7-3FRc8x8RKEUJiTmfnrxqe8BX4ZjnSNI/edit?usp=sharing][commit]] the code changes in
     the forked repository.
    + Step 7 - For every fixed issue create a pull request.
-   + Step 8 - To create a pull request click on *Pull requests*
-     on the menu bar in your repository. Then click on 
-     *New pull request*. Then you will see *Comparing changes*.
-     basefork:<<lab name that you have picked >>
-   + Step 9 - After you create the pull request, update the issue that you have fixed
-     with the *commit id* of the code changes for which you created a pull
+   + Step 8 - To create a pull request click on *Pull
+     requests* on the menu bar in your repository. Then
+     click on *New pull request*. Then you will see
+     *Comparing changes*.  basefork:<<lab name that you have
+     picked >>
+   + Step 9 - After you create the pull request, update the
+     issue that you have fixed with the *commit id* of the
+     code changes for which you created a pull
      request. Comment on the issue as *fixed*.
- *NOTE : Make sure that you use the same github profile that you have submitted in the application form*
-   + Step 10 - Once the issue has the comment as *fixed* , provide the issue
-     link on Slack channel and request for validation.
+ *NOTE : Make sure that you use the same github profile that
+  you have submitted in the application form*
+   + Step 10 - Once the issue has the comment as *fixed* ,
+     provide the issue link on Slack channel and request for
+     validation.
 
-*NOTE : If you are not comfortable in coding. You could contribute through validations and still can get internship certificate*
+*NOTE : If you are not comfortable in coding. You could
+contribute through validations and still can get internship certificate*
 
 * Part 3 
  * Steps for the validating an issue
-   + Step 1 - Every fixed issue/bug
-     should be validated by 2 members/validators. Only one validator can be from your college. An opportunity to interact with other college students and make them part of this internship :). You could also use slack channel for requesting others to validate. Both the
-     validators must review the fixes and respond on the
-     same issue with the comment *Validated - 1* or *Validated - 2* for considering the issue is fixed. If it is not identified as fixed by any of the validator, you need to rework to fix the same. Any shortcut of commenting as fixed which is not a fix will be penalized.
-   + Step 2 - As a validator, you can select fixed issues based on the communication in the Slack channel.
-     Make sure that it has not been already validated, by going through the 
-     comments in the issues.
-   + Step 3 - Once you validate the fix by throughly testing it, you should add a comment 
-     in the issue as *Validated - 1* or *Validated - 2* depending upon whether you are
-     the first or the second validator.
+   + Step 1 - Every fixed issue/bug should be validated by 2
+     members/validators. Only one validator can be from your
+     college. An opportunity to interact with other college
+     students and make them part of this internship :). You
+     could also use slack channel for requesting others to
+     validate. Both the validators must review the fixes and
+     respond on the same issue with the comment *Validated -
+     1* or *Validated - 2* for considering the issue is
+     fixed. If it is not identified as fixed by any of the
+     validator, you need to rework to fix the same. Any
+     shortcut of commenting as fixed which is not a fix will
+     be penalized.
+   + Step 2 - As a validator, you can select fixed issues
+     based on the communication in the Slack channel.  Make
+     sure that it has not been already validated, by going
+     through the comments in the issues.
+   + Step 3 - Once you validate the fix by throughly testing
+     it, you should add a comment in the issue as
+     *Validated - 1* or *Validated - 2* depending upon
+     whether you are the first or the second validator.
     
- * Lifecycle of a fixed and validated issue 
-  + Step 1 - Once a fixed issue gets reviewed and validated by the 2
-    validators, the Virtual Labs team would review the fix for the
-    final acceptance. If the issue fix is accepted by the Virtual Labs
-    team also then  you would see the comment *Fix is validated
-    and ready for production*. 
+* Lifecycle of a fixed and validated issue 
+  + Step 1 - Once a fixed issue gets reviewed and validated
+    by the 2 validators, the Virtual Labs team would review
+    the fix for the final acceptance. If the issue fix is
+    accepted by the Virtual Labs team also then you would
+    see the comment *Fix is validated and ready for
+    production*.
   + Step 2 - If you see the comment as *Fix is validated
     and ready for production* in any issue consider that
     issue as fixed and no more fixes would be accepted. 
-  + Step 3 - Do not selsct issues which have been labelled as resolved 
-    (label:resolved).
+  + Step 3 - Do not selsct issues which have been labelled
+    as resolved (label:resolved).
 
-  The last date for fixing/validating issues/bugs is 10th November, 2018.
+  The last date for fixing/validating issues/bugs is 10th
+  November, 2018.
 
 * Selection Criteria
-  The following will be considered for issuing the internship
-  selection process
+  The following will be considered for issuing the
+  internship selection process
   - Number of issues fixed.
   - Number of issues validated.
   - Type of issues resolved.
 * Conclusion
-  After the validation process, the issues would be considered as
-  resolved and moved to production.
+  After the validation process, the issues would be
+  considered as resolved and moved to production.
 
