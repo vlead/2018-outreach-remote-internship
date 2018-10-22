@@ -27,8 +27,9 @@
   - Step 1 - Click on [[https://en.wikipedia.org/wiki/GitHub][link]] to learn about the git.
   - Step 2 - Install [[https://git-scm.com/download/win][Git Bash]] on your Laptops/ PCs.
   - Step 3 - Sign up and Sign in to  GitHub. 
-  - Step 4 - Practice the learning by creating dummy repositories.
-  - Step 5 - [[https://github.com/new][Create]] a new repository.
+  - Step 4 - Practice your understanding of GitHub -
+    repositories, (push & pull ) requests and issues.
+  
   - Estimated time for learning and practicing would be 3 hours. 
 
 * Part 2 
@@ -66,8 +67,8 @@
      issue that you have fixed with the *commit id* of the
      code changes for which you created a pull
      request. Comment on the issue as *fixed*.
- *NOTE : Make sure that you use the same github profile that
-  you have submitted in the application form*
+ *NOTE : Make sure that you use the same github handle that
+  you have shared with us in the application form/mail.*
    + Step 10 - Once the issue has the comment as *fixed* ,
      provide the issue link on Slack channel and request for
      validation.
@@ -76,7 +77,7 @@
 contribute through validations and still can get internship certificate*
 
 * Part 3 
- * Steps for the validating an issue
+** Steps for the validating an issue
    + Step 1 - Every fixed issue/bug should be validated by 2
      members/validators. Only one validator can be from your
      college. An opportunity to interact with other college

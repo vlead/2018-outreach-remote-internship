@@ -1,4 +1,4 @@
-#+TITLE: Phase 1 Selection for Outreach Internship Program
+#+TITLE: Phase 2 process for Outreach Internship Program
 #+AUTHOR: VLEAD
 #+DATE: [2018-09-26 Wed]
 #+SETUPFILE: ./org-templates/level-0.org
@@ -7,11 +7,11 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This document details about the phase 1 process for the
+  This document details about the phase 2 process for the
   outreach remote intership program. This process would be
-  followed by phase 2 after the students start resolving the
-  issues for the IIIT H labs. Based on the fix, it would be
-  reviewed by the VLEAD team and accepted/rejected.
+  followed by phase 3 after the students fix the issues for
+  the IIIT H labs. Based on the fix, it would be reviewed by
+  the VLEAD team and accepted/rejected.
 
 * Motivation
   This internship program is conducted to motivate students
