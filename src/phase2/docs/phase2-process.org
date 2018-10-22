@@ -102,16 +102,16 @@ contribute through validations and still can get internship certificate*
   + Step 1 - Once a fixed issue gets reviewed and validated
     by the 2 validators, the Virtual Labs team would review
     the fix for the final acceptance. If the issue fix is
-    accepted by the Virtual Labs team also then you would
+    accepted by the Virtual Labs team, then you would
     see the comment *Fix is validated and ready for
     production*.
-  + Step 2 - If you see the comment as *Fix is validated
-    and ready for production* in any issue consider that
-    issue as fixed and no more fixes would be accepted. 
-  + Step 3 - Do not selsct issues which have been labelled
+  + Step 2 - If you see the comment as *Fix is validated and
+    ready for production* in any issue, consider that issue
+    as fixed and no more fixes would be accepted.
+  + Step 3 - Do not select issues which have been labelled
     as resolved (label:resolved).
 
-  The last date for fixing/validating issues/bugs is 10th
+  The last date for fixing/validating issues/bugs is 17th
   November, 2018.
 
 * Selection Criteria
