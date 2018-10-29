@@ -6,7 +6,7 @@
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
-* Draft e-mail for phase1 process draft mail
+* Draft e-mail for phase1 process
   Dear Student,
   
   Greeting from Virtual Labs IIIT - Hyderabad !!!
@@ -23,7 +23,7 @@
   experiments, understand the environment and provide their
   understanding in the form of a feedback form. Further
   steps in each of the phase are detailed in the document
-  available at this link. Please follow the instructions
+  available at this [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/docs/phase1-process.org][link]]. Please follow the instructions
   given in the document and submit your results accordingly.
   
   Students accessing >=10 experiments across
