@@ -29,19 +29,21 @@
  |      |                                    |                      | which would be forwarded to all  |         |
  |      |                                    |                      | students by the NCs              |         |
  |------+------------------------------------+----------------------+----------------------------------+---------|
- |   2. | Deadline for                       | 28th September, 2018 | The [[https://docs.google.com/forms/d/e/1FAIpQLSetr49t7zd9ygpKFh1mhTAE5tcf78cbf5caRUNSofnsq9E7rQ/viewform][forms]] would have the details | Done    |
- |      | filling up application forms       | 06:00 P.M. IST       | of the students - 968 responses  |         |
+ |   2. | Submission of application form     |                      |                                  |         |
+ |------+------------------------------------+----------------------+----------------------------------+---------|
+ |   2. | Deadline for application forms     | 28th September, 2018 | The [[https://docs.google.com/forms/d/e/1FAIpQLSetr49t7zd9ygpKFh1mhTAE5tcf78cbf5caRUNSofnsq9E7rQ/viewform][forms]] would have the details | Done    |
+ |      |                                    |                      | of the students - 968 responses  |         |
  |------+------------------------------------+----------------------+----------------------------------+---------|
  |   3. | Deadline extension mail for        | 30th September, 2018 | [[Y][Link]]                             | Done    |
- |      | filling up application forms       | 06:00 P.M. IST       |                                  |         |
+ |      | filling up application forms       |                      |                                  |         |
  |------+------------------------------------+----------------------+----------------------------------+---------|
  |   4. | Draft mail for Phase 1 process     | 03rd October, 2018   | [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/intern-selection/draft-mails/phase1-process-draft-mail.org][Link]]                             | Done    |
- |      |                                    | 08:30 P.M. IST       |                                  |         |
+ |      |                                    |                      |                                  |         |
  |------+------------------------------------+----------------------+----------------------------------+---------|
  |   5. | Extended deadline mail for         | 09th October,2018    | [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/intern-selection/draft-mails/phase1-deadline-extension-draft-mail.org][Link]] and responses - 292         | Done    |
- |      | phase 1                            | 04:: P.M. IST        |                                  |         |
+ |      | phase 1                            |                      |                                  |         |
  |------+------------------------------------+----------------------+----------------------------------+---------|
- |   6. | Draft mail for Introduction to git |                      | [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/intern-selection/draft-mails/introduction-to-git-draft-mail.org][Link]] need to be sent to 212      | Backlog |
+ |   6. | Draft mail for Introduction to git |                      | [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/intern-selection/draft-mails/introduction-to-git-draft-mail.org][Link]] need to be sent to 220      | Backlog |
  |      |                                    |                      | students refer [[https://docs.google.com/spreadsheets/d/1sY8rLkgFq3Ticgpqyi9nWMCkXSJKfz0U6VLb0FqCPEc/edit#gid=1793675101][Link]]              |         |
  |------+------------------------------------+----------------------+----------------------------------+---------|
  |   7. | Mail about phase 2 to the          |                      |                                  | Backlog |
