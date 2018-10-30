@@ -18,4 +18,28 @@
    03:30 PM - Tea Break
    03:45 PM - Overview on Phase 2 Process 
    04:15 PM - Q&A Session
-
+* Executive Summary
+  - The objective for conducting this one day boot camp is
+    to train the students from the engineering colleges to
+    use Git (an open source distributed version control
+    systems). 
+  - 219 students were shortlisted for the phase 2 program
+    and were allowed to attend the session among which 69
+    students attended.
+  - We have started a session with the Introduction to
+    Virtual Labs by Mr. Ravi Shankar at 10:30 AM. Later a
+    session on Git and how to use it. 
+  - Followed the steps explained on phase 2 process
+    documents. 
+  - A session on JavaScript is also conducted.
+  - At the end of the day students were able to do some
+    changes in the code and were able to add, commit and
+    push the coded into GitHub.
+* Take Away
+  - Session was really helpful for the students, they learnt
+    the importance of version control systems.
+  - Students wanted a elobarated description for steps 8, 9
+    and 10 in phase 2 document.
+  - Issues were really less so we should assign few more
+    issues with *label: 2018-Open*.
+  
