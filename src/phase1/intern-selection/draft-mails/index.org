@@ -24,8 +24,30 @@
   program is to do outreach activities for the Virtual Labs
   and improve its reach to as many colleges as possible.
 
-* Draft Mails 
-  + [[./initial-draft-mail.org][Initial Draft mail to call for interns]] and [[./initial-summer-internship-poster.jpeg][Initial Poster]]
+* Draft Mails
+
+  |------+--------------------------+------|
+  | S.no | Draft mail               | Link |
+  |------+--------------------------+------|
+  |    1 | Initial mail to NC's     | [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/intern-selection/draft-mails/initial-draft-mail.org][Link]] |
+  |------+--------------------------+------|
+  |    2 | Response for application | [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/intern-selection/draft-mails/registration-response-mail.org][Link]] |
+  |------+--------------------------+------|
+  |    3 | Deadline extension for   | [[https://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase1/intern-selection/draft-mails/extended-deadline-draft-mail.org][Link]] |
+  |      | applications             |      |
+  |------+--------------------------+------|
+  |    4 | Phase 1 process          | [[https://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase1/intern-selection/draft-mails/phase1-process-draft-mail.org][Link]] |
+  |------+--------------------------+------|
+  |    5 | Initial Deadline         | [[https://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase1/intern-selection/draft-mails/phase1-initial-deadline-extension.org][Link]] |
+  |      | extension  for Phase1    |      |
+  |------+--------------------------+------|
+  |    6 | Final Deadline           | [[https://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase1/intern-selection/draft-mails/phase1-deadline-extension-draft-mail.org][Link]] |
+  |      | extension for phase 1    |      |
+  |------+--------------------------+------|
+  
+
+* Internship Poster
+[[./initial-summer-internship-poster.jpeg][Initial Poster]]
 
 
 * Conclusion
