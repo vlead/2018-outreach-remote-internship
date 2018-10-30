@@ -1,0 +1,38 @@
+#+TITLE: Draft mails for the Outreach Internship Program
+#+AUTHOR: VLEAD
+#+DATE: [2018-05-17 Thurs]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document contains all the draft mails which are sent
+  to the Nodal Coordinators and other college HOD/Principal
+  for the outreach remote internship program. These mails
+  keep up the enthusiasm amongst the potential participants
+  and also give us the idea on the progress of the
+  internship program.
+
+* Motivation
+  This internship program is conducted to motivate students
+  from the Nodal centers and other colleges to contribute
+  towards this mission mode project run by MHRD. Students
+  would be contributing towards the open source development
+  community as well as improve the Virtual Labs. The
+  motivation for us behind conducting such internship
+  program is to do outreach activities for the Virtual Labs
+  and improve its reach to as many colleges as possible.
+
+* Draft Mails 
+  + [[./initial-draft-mail.org][Initial Draft mail to call for interns]] and [[./initial-summer-internship-poster.jpeg][Initial Poster]]
+
+
+* Conclusion
+  Based on the issues fixed by the students would be given
+  an opportunity to work as an intern in virtual labs and
+  also contribute in a mission mode MHRD project. The labs
+  would be improved as part of this program giving us an
+  edge in outreach programs by connecting to the different
+  Nodal Coordinators across the state.
+  

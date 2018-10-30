@@ -38,17 +38,15 @@
  |   4. | Phase 1 process mail               | 03 October, 2018   | [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/intern-selection/draft-mails/phase1-process-draft-mail.org][Link]]                             | Done    |
  |      |                                    |                    |                                  |         |
  |------+------------------------------------+--------------------+----------------------------------+---------|
- |   5. | Deadline extension Phase 1         | 05 October, 2018   | [[                               |         |
+ |   5. | Deadline extension Phase 1         | 05 October, 2018   | [[https://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase1/intern-selection/draft-mails/phase1-initial-deadline-extension.org][Link]]                             | Done    |
  |------+------------------------------------+--------------------+----------------------------------+---------|
- |   5. | Final deadline extension phase 1   | 09 October,2018    | [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/intern-selection/draft-mails/phase1-deadline-extension-draft-mail.org][Link]] and responses - 292         | Done    |
+ |   6. | Final deadline extension phase 1   | 09 October,2018    | [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/intern-selection/draft-mails/phase1-deadline-extension-draft-mail.org][Link]] and responses - 292         | Done    |
  |      |                                    |                    |                                  |         |
  |------+------------------------------------+--------------------+----------------------------------+---------|
- |   6. | Draft mail for Introduction to git |                    | [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/intern-selection/draft-mails/introduction-to-git-draft-mail.org][Link]] need to be sent to 220      | Backlog |
- |      |                                    |                    | students refer [[https://docs.google.com/spreadsheets/d/1sY8rLkgFq3Ticgpqyi9nWMCkXSJKfz0U6VLb0FqCPEc/edit#gid=1793675101][Link]]              |         |
+ |   7. | Shortlisted students from phase 1  | 11 October, 2018   | [[https://docs.google.com/spreadsheets/d/1sY8rLkgFq3Ticgpqyi9nWMCkXSJKfz0U6VLb0FqCPEc/edit#gid=1793675101][220 students]]                     | Done    |
+ |      |                                    |                    |                                  |         |
  |------+------------------------------------+--------------------+----------------------------------+---------|
- |   7. | Mail about phase 2 to the          |                    |                                  | Backlog |
- |      | selected students for the          |                    |                                  |         |
- |      | internship                         |                    |                                  |         |
+ |   8. | Phase 2 Document mail              | 22 October, 2018   | [[                               | Backlog |
  |------+------------------------------------+--------------------+----------------------------------+---------|
  |   8. | Extended phase 2 process mail      |                    |                                  | Backlog |
  |      |                                    |                    |                                  |         |
