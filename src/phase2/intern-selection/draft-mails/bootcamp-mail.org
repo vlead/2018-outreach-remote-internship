@@ -6,36 +6,49 @@
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
-* Draft e-mail for phase1 process
+* Draft e-mail for Boot Camp
   Dear Student,
+
+  Greetings from Virtual Labs @ IIIT - Hyderabad!
   
-  Greeting from Virtual Labs IIIT - Hyderabad !!!
+  Keeping in view that students need some assistance for proceeding further in phase 2 process, we are conducting a one day Boot camp on 28th October, 2018 at IIITH campus.
   
-  Thank you for your interest in Virtual Labs remote
-  internship program. We are happy to share that we received
-  more than 850+ applicants and have internship
-  opportunities for all of you. The internship program has 3
-  phases that includes improving your understanding of
-  Virtual Labs.
+  Agenda of the Boot camp:
+  10:00 AM - Introduction to Virtual Labs
+  10:30 AM - Tea break
+  10:45 AM - Introduction to Git
+  11:45 AM - Overview on HTML
+  12:45 PM - Lunch Break
+  01:45 PM - Overview on JavaScript
+  03:30 PM - Tea Break
+  03:45 PM - Overview on Phase 2 Process
+  04:15 PM - Q&A Session 
   
-  We are happy to initiate Phase1 of the program. In this
-  phase, students will access and use Virtual Labs
-  experiments, understand the environment and provide their
-  understanding in the form of a feedback form. Further
-  steps in each of the phase are detailed in the document
-  available at this [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/docs/phase1-process.org][link]]. Please follow the instructions
-  given in the document and submit your results accordingly.
+  Date of Boot Camp :
+  28th October, 2018 (Sunday).
   
-  Students accessing >=10 experiments across
-  labs/disciplines of their choice are more likely to be
-  shortlisted for Phase 2.
+  Timings of the Boot Camp :
+  10:00 AM to 05:00PM
   
-  The last date for the completion of phase 1 is 5th
-  October,2018 12 Midnight
+  Venue :
+  Himalaya 205,
+  IIIT-Hyderabad campus,
+  Gachibowli,
+  Hyderabad - 500032.
   
-  We look forward to your active participation in the
-  program.  For any queries, please send an email to us at
-  internship@vlabs.ac.in
+  Prerequisites:
+  - Students should to carry their own laptops.
+  - Git Bash should to be installed in the system if you are
+    using Windows operating system.
+  - Snacks will be provided. We request students to make
+    their own lunch arrangements.
+
+  Please confirm your presence at the Boot Camp by 27th
+  October, 2018 before 09:00 AM.
+
+  For any doubts or clarifications needed please feel free
+  to contact us @ internship@vlabs.ac.in
   
-  Thanks,
+  Thanks and Regards,
+
   Virtual Labs Team.

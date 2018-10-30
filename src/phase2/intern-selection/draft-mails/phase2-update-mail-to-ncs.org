@@ -6,31 +6,53 @@
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
-* Draft e-mail for Extended deadline 
-  Dear Student,
-  
-  Thank you for the overwhelming responses!
-  
-  Although, we have received a huge number of responses,
-  some of you may have missed the due date in spite of your
-  strong desire to register.
-  
-  In order to enable those of you who have not been able to
-  complete the [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/docs/phase1-process.org][phase 1 process]] with in the due date we are
-  extending the last date till Thursday 11th October,2018
-  23:59.
-  
-  Now don't miss this second opportunity and send your
-  submissions before 11th October, 2018 23:59.
-  
-  New applicants, please follow the [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/docs/phase1-process.org][link]] for the details of
-  the phase 1 process.
-  
-  We will be sending the next steps(Phase 2) in this
-  internship program to the shortlisted students on Friday
-  12th October, 2018.
-  
-  Thanks,
+* Draft e-mail for Phase 2 update to NC's 
+  Dear Sir/Ma'am,
+  Greetings from Virtual Labs IIIT - Hyderabad !!!
+
+  We are happy to share that 212 students have cleared Phase
+  1 of the internship.
+
+  Thank you for encouraging your students to take part in
+  Virtual Labs Remote Internship program.
+
+  The total count of the students(College wise) who have
+  cleared Phase 1 to progress to Phase 2 is as mentioned
+  below.
+
+  |------+-------------------------------+---------------------------------|
+  | S.No | College Name                  | No. of students cleared Phase 1 |
+  |------+-------------------------------+---------------------------------|
+  |    1 | Anurag college of engineering |                              09 |
+  |------+-------------------------------+---------------------------------|
+  |    2 | Chaitanya Bharathi Institute  |                              23 |
+  |      | of Technology                 |                                 |
+  |------+-------------------------------+---------------------------------|
+  |    3 | Sreenidhi Institute of        |                              92 |
+  |      | Science and Technology        |                                 |
+  |------+-------------------------------+---------------------------------|
+  |    4 | Vasavi College of             |                              52 |
+  |      | Engineering                   |                                 |
+  |------+-------------------------------+---------------------------------|
+  |    5 | Matrusri Engineering          |                              32 |
+  |      | College                       |                                 |
+  |------+-------------------------------+---------------------------------|
+  |    6 | Sree Chaitanya College        |                               0 |
+  |      | of Engineering                |                                 |
+  |------+-------------------------------+---------------------------------|
+  |    7 | CMR Engineering College       |                               0 |
+  |------+-------------------------------+---------------------------------|
+  |    8 | Others                        |                              04 |
+  |------+-------------------------------+---------------------------------|
+
+  The selected students will continue with the Phase 2 of
+  the internship. These students have been notified about
+  the Phase 2 process on 22 October, 2018 through email.
+
+  We are also planning on conducting a one day boot camp for
+  these students on 28th October 2018, at IIITH.  We will
+  share the agenda, date, timings and venue to them shortly.
+
+  Thanks and regards,
 
   Virtual Labs Team.
-  

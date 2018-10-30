@@ -6,30 +6,27 @@
 #+EXCLUDE_TAGS: boilerplate
 #+OPTIONS: ^:nil
 
-* Draft e-mail for Extended deadline 
+* Draft e-mail for Phase 2 document 
   Dear Student,
-  
-  Greetings from Virtual Labs IIIT - Hyderabad !!!
-  
-  Thank you for your interest in Virtual Labs remote
-  internship program. We are happy to share that we received
-  a quite good response.
+  Greetings from Virtual Labs @ IIIT - Hyderabad!
 
-  Considering the request of many students we are extending
-  the dead line till 07 October,2018.
+  We congratulate you on the successful completion of Phase
+  1 of the internship program.
 
-  Hope that you would take this as an extended opportunity
-  and utilize it.
+  Please read and execute the steps detailed in Part 1, Part
+  2 and Part 3 sections of the [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase2/docs/phase2-process.org][Phase 2 document]] to
+  participate in the Phase 2 of the Virtual Labs internship
+  program.
 
-  The last date for the completion of phase 1 is 7th
-  October,2018 23:59.
+  Please fill the [[https://docs.google.com/forms/d/e/1FAIpQLSe8N1JyAR9HSS9EP1IR8u4M05R-jAOd1KOt1JKJewIRzvONKg/viewform][form]] after going through the process. Only
+  students who have filled the form would receive a Slack
+  channel invitation. kindly accept our slack channel
+  request sent to your email account so that we can
+  communicate on a day to day basis during Phase 2 .
 
-  We look forward to your active participation in the
-  program.  
+  In case of any doubts or clarifications needed please feel
+  free to contact us @ internship@vlabs.ac.in
 
-  For any queries, please send an email to us at
-  internship@vlabs.ac.in
-
-  Thanks,
+  Thanks & Regards,
 
   Virtual Labs Team.
