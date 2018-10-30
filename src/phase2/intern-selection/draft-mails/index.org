@@ -25,7 +25,15 @@
   and improve its reach to as many colleges as possible.
 
 * Draft Mails 
-  + [[./initial-draft-mail.org][Initial Draft mail to call for interns]] and [[./initial-summer-internship-poster.jpeg][Initial Poster]]
+  |------+----------------------------+------|
+  | S.No | Draft mail                 | Link |
+  |------+----------------------------+------|
+  |    1 | Phase2 process mail        | [[https://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase2/intern-selection/draft-mails/phase2-process-mail.org][Link]] |
+  |------+----------------------------+------|
+  |    2 | Phase2 update mail to NC's | [[https://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase2/intern-selection/draft-mails/phase2-update-mail-to-ncs.org][Link]] |
+  |------+----------------------------+------|
+  |    3 | Boot camp nail             | [[https://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase2/intern-selection/draft-mails/bootcamp-mail.org][Link]] |
+  |------+----------------------------+------|
 
 
 * Conclusion

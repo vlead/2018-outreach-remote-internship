@@ -46,9 +46,15 @@
  |   7. | Shortlisted students from phase 1  | 11 October, 2018   | [[https://docs.google.com/spreadsheets/d/1sY8rLkgFq3Ticgpqyi9nWMCkXSJKfz0U6VLb0FqCPEc/edit#gid=1793675101][220 students]]                     | Done    |
  |      |                                    |                    |                                  |         |
  |------+------------------------------------+--------------------+----------------------------------+---------|
- |   8. | Phase 2 Document mail              | 22 October, 2018   | [[                               | Backlog |
+ |   8. | Phase 2 Document mail              | 22 October, 2018   | [[https://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase2/intern-selection/draft-mails/phase2-process-mail.org][Link]]                             | Done    |
  |------+------------------------------------+--------------------+----------------------------------+---------|
- |   8. | Extended phase 2 process mail      |                    |                                  | Backlog |
+ |   9. | Phase 1 update to NC's             | 23 October, 2018   | [[https://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase2/intern-selection/draft-mails/phase2-process-mail.org][Link]]                             | Done    |
+ |------+------------------------------------+--------------------+----------------------------------+---------|
+ |  10. | One Day Boot camp mail             | 25 October, 2018   | [[tps://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase2/intern-selection/draft-mails/bootcamp-mail.org][Link]]                             | Done    |
+ |------+------------------------------------+--------------------+----------------------------------+---------|
+ |  11. | Boot Camp report                   | 28 October, 2018   | [[                               | Done    |
+ |------+------------------------------------+--------------------+----------------------------------+---------|
+ |   12 | Extended phase 2 process mail      |                    |                                  | Backlog |
  |      |                                    |                    |                                  |         |
  |------+------------------------------------+--------------------+----------------------------------+---------|
  |   9. | Weekly review process for resolved |                    |                                  | Backlog |
