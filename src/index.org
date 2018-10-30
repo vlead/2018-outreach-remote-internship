@@ -50,7 +50,7 @@
  |------+------------------------------------+--------------------+----------------------------------+---------|
  |   9. | Phase 1 update to NC's             | 23 October, 2018   | [[https://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase2/intern-selection/draft-mails/phase2-process-mail.org][Link]]                             | Done    |
  |------+------------------------------------+--------------------+----------------------------------+---------|
- |  10. | One Day Boot camp mail             | 25 October, 2018   | [[tps://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase2/intern-selection/draft-mails/bootcamp-mail.org][Link]]                             | Done    |
+ |  10. | One Day Boot camp mail             | 25 October, 2018   | [[tps://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase2/intern-selection/draft-mails/bootcamp-mail.org][Link]]                           | Done    |
  |------+------------------------------------+--------------------+----------------------------------+---------|
  |  11. | Boot Camp report                   | 28 October, 2018   | [[https://github.com/vlead/2018-outreach-remote-internship/blob/master/src/phase2/report-bootcamp.org][Link]]                             | Done    |
  |------+------------------------------------+--------------------+----------------------------------+---------|
