@@ -1,0 +1,21 @@
+#+TITLE: One day Boot Camp 
+#+AUTHOR: VLEAD
+#+DATE: [2018-04-25 Wed]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document has the report of boot camp.
+* Agenda
+   10:00 AM - Introduction to Virtual Labs 
+   10:30 AM - Teabreak
+   10:45 AM - Introduction to Git
+   11:45 AM - Overview on HTML
+   12:45 PM - Lunch Break 
+   01:45 PM - Overview on JavaScript 
+   03:30 PM - Tea Break
+   03:45 PM - Overview on Phase 2 Process 
+   04:15 PM - Q&A Session
+
