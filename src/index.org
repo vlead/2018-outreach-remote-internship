@@ -75,7 +75,7 @@
 
 * Process
 ** [[https://github.com/vlead/2018-outreach-remote-internship/tree/develop/src/phase1][Phase 1]]
-
+** [[https://github.com/vlead/2018-outreach-remote-internship/tree/master/src/phase2][Phase 2]]
 * Logistics
    
 * Conclusion
