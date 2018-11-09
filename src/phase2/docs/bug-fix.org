@@ -1,0 +1,35 @@
+#+Title: Guidelines - Code related bugs
+#+Date: 2018-11-09 [Friday]
+#+Author: Sravanthi B
+
+* Introduction
+
+This document provides the guidelines on how to resolve the code
+related bugs. Find the below process to code related issues.
+
+* Guidelines
+
+- Go to the issues page of any lab, here i have taken Artificial
+  neural networks lab for your reference.
+- Click on [[https://github.com/virtual-labs/artificial-neural-networks-iiith/issues][issues]] section. 
+- Look for the issues that are labeled with "static-code-analysis".
+- In this [[https://github.com/virtual-labs/artificial-neural-networks-iiith/issues?q=is%3Aissue+is%3Aopen+label%3Astatic-code-analysis][link]] all the issues labeled with "static-code-analysis".
+- Every [[https://github.com/virtual-labs/artificial-neural-networks-iiith/issues/60][issue]] is raised with defect description and with an example.
+- Look for the example that is given with a good and a bad piece of
+  code. The bad piece refers to the code with error existed. And the
+  good one gives an example of how the code supposed to be.
+- All The issues are raised category wise. The categories are
+  code-style, compatibility, error-prone, performance, security and
+  unused code.
+- Each category may have one or more than one issues which are all
+  same but existed in different locations. Let's say at a different
+  page or at a different experiment.
+- The category which consists of a single issue, is not provided with
+  link.
+- Please note that - if a link is given in the issue that means the
+  link will navigate the intern to the page where the other issues of
+  the same category are listed.
+- In the such case, the intern can take the reference of the raised
+  issue and fix the rest of the issue listed in the link as they are
+  all of the same category issues.
+
