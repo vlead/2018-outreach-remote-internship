@@ -68,56 +68,77 @@
   hyderabad labs which needs to be validated would have a
   naming convention of <labname>-iiith.
   + Step 1 - Go to the issues section in the [[https://github.com/virtual-labs/][lab repo]] and
-    start looking for the issues with a label
-    "2018-Open". You have to validate the fixes in these
-    issues only. Look only for the *Open* issues. the closed
-    ones in this are no longer valid for us. Do not filter
-    and try to comment on other issues.
+    filter the issues with a label "2018-Open". You have to
+    validate the fixes in these issues only. Look only for
+    the *Open* issues. the closed ones in this are no longer
+    valid for us. Do not filter and try to comment on other
+    issues.
   For Example : [[https://github.com/virtual-labs/computer-programming-responsive-iiith/issues/158][Sample issue]]
-  + Step 2 - In every such issue, you would find a commit id and
-    responses from 2 different members saying that it is a
-    valid fix. Only if an issue has all these 3 properties,
-    you should start your final validation. If there is only
-    1 member's response saying that its a valid fix, do not
-    start validating that issue. Having 2 valid fix comments
-    in every issue is mandatory for you to go ahead.
+  + Step 2 - In every such issue, you would find a commit id
+    and responses from 2 different members saying that it is
+    a valid fix. Only if an issue has all the above 3(1
+    commit id and 2 validations), you should start your
+    final validation. If there is only 1 member's response
+    saying that its a valid fix, do not start validating
+    that issue. Having 2 valid fix comments in every issue
+    is mandatory for you to go ahead.
   + Step 3 - Go through the issue raised with all the description to
     understand the problem very clearly so that you are in a
     position to review the code for the fixes.
   + Step 4 - After the identification of such issue, click on the
     commit id provided in the earlier responses and go
     through the code given for the fix.
-  + Step 5 - The next step for you to carry out is testing the fix on
-    the identical production environment. Setup
-    [[https://github.com/vlead/setup-ovpl-centos/blob/develop/user-docs/run-ads-using-vagrant-box.org][Auto
-    Deployment Service]] on your local machines and follow
-    the document carefully to deploy the lab. Once this is
-    successful and the lab runs identically as on
-    [[https://vlab.co.in][vlab.co.in]] we can move it to our
-    AWS servers for final deployment.
+  + Step 5 - The next step for you to carry out is testing
+    the fix on the identical production environment. Setup
+    [[https://github.com/vlead/setup-ovpl-centos/blob/develop/user-docs/run-ads-using-vagrant-box.org][Auto Deployment Service]] on your local machines and
+    follow the document carefully to deploy the lab. Once
+    this is successful and the lab runs identically as on
+    [[https://vlab.co.in][vlab.co.in]] we can move it to our AWS servers for final
+    deployment.
   + Step 6 - If you find that the given fix is incorrect, please
     comment on the same issue. If you find that the 2 other
     validations are also incorrect, comment on the same
     issue itself.
-  + Step 7 - If you think that the fix given is correct, you have
-    tested it on your local machines and it should be moved
-    to production, kindly comment in the same issue " *Fix
-    is validated and can be moved to production* ".
+  + Step 7 - If you think that the fix given is correct, you
+    have tested it on your local machines and it should be
+    moved to production, kindly comment in the same
+    issue. Please follow these steps for commenting on the
+    issue after testing. The comment should include the
+    following three parameters:
+    1) Whether the issue is valid or not.
+    2) Name of person whose code is to be moved into
+       production.
+    3) Severity of the issue.
+       
+    The Severity level is defined as follows:
+    + S5 - Broken links and english change.
+    + S4 - Change in existing content/code .
+    + S3 - Enhancement/Addition of new content
+    + S2 - New feature/fix (with (<47 lines of code for JS,
+      <53 for Java and <19 for Python))
+    + S1 - Writing/developing new feature(>47 lines of code
+      for JS, >53 for Java and >19 for Python)
+
+    NOTE:
+    - S1 and S2 would be JS and Java of the simulation
+    - S3 and S4 would be for content- HTJML/js of
+      non-simulation, ie. procedure, references, quiz, etc
+      
+    Example comment: Fix is validated and can be moved to
+    production, githubhandle, severity level.  Fix is
+    validate and can be moved to production,
+    gayatripurigilla, S1.
+
   + Step 8 - Once the issue is ready to be moved to production from
     your side, there won't be any other person reviewing
     it. It would directly be made available to the end
     users. The issue would be marked as *Closed* after this.
 
     This is an iterative cycle and it goes on till you
-    validate all the issues fixed in the lab assigned to
-    you. Based on your final reviews, the other students who
-    are providing the fixes would be evaluated and points
-    would be given to them. This activity would be carried
-    out on every Mondays, Tuesdays and Wednesdays for you in
-    your current internship schedule itself. It is expected
-    to go on till 4th July, 2018. It should not take more
-    than 1.5 hr/day if you do it diligently for the above
-    mentioned period.
+    validate all the issues fixed in the lab. Based on your
+    final reviews, the other students who had fixed the
+    fixes would be evaluated and points would be given to
+    them. 
     
 * Conclusion
   After the validation process, the issues would be
