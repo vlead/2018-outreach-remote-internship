@@ -1,3 +1,4 @@
+
 #+TITLE: Understanding Virtual Labs and validating the fixes 
 #+AUTHOR: VLEAD
 #+DATE: [2019-02-15 Fri]
@@ -8,9 +9,11 @@
 
 * Introduction
   This document describes about an activity to understand
-  the review process in a Software Development Life
-  Cycle. You would be reviewing the work of other interns
-  who are part of Virtual Labs Outreach Internship Program
+  the process in a Software Development Life Cycle. You
+  would be exploring the labs of IIIT Hyderabad. Identify
+  bugs and fix bugs in the Virtual labs along with reviewing
+  the work of other interns who are part of Virtual Labs
+  Outreach Internship Program
 
 * Prerequisites 
   + Download the feedback form from the [[https://drive.google.com/file/d/1FBkH8uMY8OgdNLUw4laE6kn6i0Q5hjeI/view?usp=sharing][link]]. 
@@ -61,8 +64,105 @@
  
 ** Submit the feedback form
   + Step 1 - Fill the feedback form (2 Pages) document.
-  + Step 2 - You can submit in the Room No : B6 205
+  + Step 2 - After filling the feedback form, print it and
+    sign the printed feedback form.  
+  + Step 3 - Scan the filled in feedback form.
+  + Step 4 - Upload the scaned document in the [[https://drive.google.com/drive/folders/1fnRs0TPlRKY9672NsSOLYPeNVedv_ioH?usp=sharing][link]].
+    format.
 * Step 2
+  1) Go to the [[www.http://vlabs.ac.in][Virtual Labs website]] and click on
+     IIIT-Hyderabad institute available in the Participating 
+     institute in the left corner of the webpage to access
+     the labs to be tested.
+  2) Select a lab and start exploring the features of the
+     experiments and the content
+  3) While exploring the lab ,you may encounter the issues
+     such as
+   1) *Operational defects* : Such as broken links, error
+      pages, invisible or incorrect content including
+      English grammar and buttons that not in
+      functioning. The defects that you have observed other
+      than the above listed are also be logged as bugs. 
+   2) *Simulation defects* :
+       + The simulation that doesnot work as per the given
+         instructions.
+       + The simulator with no instructions.
+       + When the output of the simulation is not as per the
+         requirement.
+       + Logical flaws in the experiment's simulation.
+       + Quality of simulator can be improved or enhanced.
+  4) Log as issues in [[https://github.com/virtual-labs][github]]
+
+** Logging issues in GitHub
+   The issues need to be logged in the repository. Please
+   follow the steps given below to create a new issue in
+   Github.
+   1) Type the lab name in the search bar of the
+      [[https://github.com/virtual-labs][repository]]. Select the IIIT Hyderabad lab you want to
+      create new issues.
+   2) Click on "Issues" option, that is just below the
+      overview on the left hand side of your web page.
+   3) Click on "New Issue".  
+   4) Title of the issue should be in the following format.
+      "*<experiment_name>_<sub section of experiment where
+      the bug is detected>*"
+      - For Example :
+       numerical-representation_objective
+   5) Following information must be given in the issues
+      while raising a bug in Github.
+    + Defect description : The description should specify an
+      exact problem in the application. 
+    + Steps to reproduce the issue : A detailed step by step
+      description to be given right from the login step
+      until the bug is identified.
+    + Expected result : It should elaborate the result which
+      you are expecting to see as an end user.
+    + Actual result : This section should descibe what the
+      feature is actually showing instead of correct results.
+    + Screen shot : A small screenshot of the defect
+      capturing the screen where it was identified and needs
+      to be resolved.
+    Please go through this [[https://github.com/virtual-labs/problem-solving-iiith/issues/343][Sample Issue]] for better understanding. 
+** Invalid issues        
+  The following mentioned issues would be considered invalid
+   1) The Feedback submit is not working across all the labs and
+      experiments, this is again a known issue to us. It won't be
+      considered as valid.
+   2) We are not focussing on spelling mistakes and
+      grammatical errors, even if such issues are raised
+      they won't be given much weightage.
+* Fixing the issues
+  + Step 1 - Choose a lab for which you want to start resolving the
+    issues. Select the lab repository from [[https://github.com/virtual-labs/][GitHub]].
+  + Step 2 - Fork the lab repository so that you have the local copy
+    of the lab codebase in your machine.
+  + Step 3 - Go to the issues section in the repo and pick up the
+    issue you want to start resolving.
+  + Step 4 - Make changes in your forked copy of the lab repo, [[https://docs.google.com/presentation/d/1HlGjkacVdE7-3FRc8x8RKEUJiTmfnrxqe8BX4ZjnSNI/edit?usp=sharing][commit]]
+    the changes and create a pull request.
+  + Step 5 - After you create the pull request, update the same issue
+    with *commit id* of the code changes for which you created a pull
+    request. Comment on the issue as *fixed*.
+  + Step 6 - Once the issue has comment as *fixed* , provide the issue
+    link on Slack channel for 2 members to validate the fix. One
+    member could be from the same college but the other validator must
+    be from some other college. Both the validators must also review
+    the fixes and respond on the same issue with the comment that the
+    issue fix is correct.
+  + Step 7 - Once the issue gets reviewed and approved by
+    the 2 validators, the Virtual Labs team would review the
+    fix for the final acceptance. If the issue fix is
+    accepted by the Virtual Labs team also, it would be
+    labelled as *Fix is validated and ready to move to
+    production, @kurasaiteja, S5*.
+  + Step 8 - After you see the issue labelled as *Fix is
+    validated and ready to move to production, @kurasaiteja,
+    S5* and more than one student was working on the issue
+    simultaneously, consider that the issue is fixed no more
+    fixes would be accepted by any other student.
+  + Step 9 - Switch to some other issue.x
+     
+* Step 3
   Please use this [[https://github.com/virtual-labs/][link]] for the IIIT-Hyderabad lab code
   repositories for the validation process. The IIIT
   hyderabad labs which needs to be validated would have a
@@ -145,3 +245,4 @@
   considered as resolved and moved to production. At the end
   of this we should be able to close the issues which have
   been moved to production.
+  
