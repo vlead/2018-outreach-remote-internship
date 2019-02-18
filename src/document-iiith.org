@@ -61,8 +61,7 @@
  
 ** Submit the feedback form
   + Step 1 - Fill the feedback form (2 Pages) document.
-  + Step 2 - You can submit in the Room No : B6 205
-* Step 2
+  + Step 2 - You can submit in the Room No : B6 205, Virtual Labs, Vindhya C6,IIIT-Hyderabad.
   Please use this [[https://github.com/virtual-labs/][link]] for the IIIT-Hyderabad lab code
   repositories for the validation process. The IIIT
   hyderabad labs which needs to be validated would have a
