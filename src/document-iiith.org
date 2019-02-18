@@ -131,7 +131,7 @@
    2) We are not focussing on spelling mistakes and
       grammatical errors, even if such issues are raised
       they won't be given much weightage.
-* Fixing the issues
+** Fixing the issues
   + Step 1 - Choose a lab for which you want to start resolving the
     issues. Select the lab repository from [[https://github.com/virtual-labs/][GitHub]].
   + Step 2 - Fork the lab repository so that you have the local copy
