@@ -7,7 +7,27 @@
 #+OPTIONS: ^:nil
 
 * Introduction
-  This document has the report of boot camp.
+  This document describes the bootcamp plan for selected
+  students at IIITH. VLEAD would be conducting a one day
+  bootcamp for the students to onboard them for the
+  internship program. They would be trained on the
+  development/testing environments along with the
+  technological dependencies required for the labs.
+* Venue, Date and Time
+  - Venue : Himalaya 205, IIIT - Hyderabad
+  - Date : 28 October, 2018
+  - Time : 10:00 - 05:00 PM
+* Participants
+  - Shortlisted candidates from [[https://github.com/vlead/2018-outreach-remote-internship/blob/develop/src/phase1/docs/phase1-process.org][phase 1 process]] - [[https://docs.google.com/spreadsheets/d/1sY8rLkgFq3Ticgpqyi9nWMCkXSJKfz0U6VLb0FqCPEc/edit#gid=1793675101][220 Students]]
+* Goals
+  - Understand and follow the development process.
+  - Understanding Git and able to execute the Git commands.
+  - Train them the basics of JavaScript.
+* Prerequisites for the participants
+  - Students should to carry their own laptops.
+  - Git Bash should to be installed in the system if you are
+    using Windows operating system.
+
 * Agenda
    10:00 AM - Introduction to Virtual Labs 
    10:30 AM - Teabreak

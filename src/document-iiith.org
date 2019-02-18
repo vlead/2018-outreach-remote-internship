@@ -1,0 +1,126 @@
+#+TITLE: Understanding Virtual Labs and validating the fixes 
+#+AUTHOR: VLEAD
+#+DATE: [2019-02-15 Fri]
+#+SETUPFILE: ./org-templates/level-0.org
+#+TAGS: boilerplate(b)
+#+EXCLUDE_TAGS: boilerplate
+#+OPTIONS: ^:nil
+
+* Introduction
+  This document describes about an activity to understand
+  the review process in a Software Development Life
+  Cycle. You would be reviewing the work of other interns
+  who are part of Virtual Labs Outreach Internship Program
+
+* Prerequisites 
+  + Download the feedback form from the [[https://drive.google.com/file/d/1FBkH8uMY8OgdNLUw4laE6kn6i0Q5hjeI/view?usp=sharing][link]]. 
+  + The following software installations are required on your machine.
+    + [[http://get.adobe.com/flashplayer/][Adobe Flash]]
+    + [[https://www.java.com/en/download/help/windows_manual_download.xml][Java]] (Click on "Download and Install")
+    + [[http://download.oracle.com/otn-pub/java/java3d/1.5.1/java3d-1_5_1-windows-amd64.exe][Java3d]] (Package: j3d-1_5_2-linux-amd64)
+  
+* Step 1
+** Steps to be followed for browsing the labs in Virtual Labs
+  + Step 1 - Open your Web Browser. Type http://vlab.co.in/
+    and press Enter (or) Click [[http://vlab.co.in/][here]] This will be redirect
+    you Virtual Labs website.
+  + Step 2 - Scroll the page down. You will be able to see
+    "Broad Areas of Virtual Labs".
+  + Step 3 - Click on any Discipline/Branch you belong to.
+    For Example : "Computer Science & Engineering"
+  + Step 4 - Now you will be able to see the labs related to
+    the discipline selected in Step 3.  
+  + Step 5 - Click any lab you wish to perform, that takes
+    you to the Experiment page.  
+    For Example : Click on "Data Structures"
+  + Step 6 : Click on "List of experiments" in the left menu
+    bar. This takes you to the list of experiments page.
+  + Step 7 - Click on any experiment. It will redirects you
+    the Introduction of respective experiment. 
+    For Example : Click on "Sorting using Arrays"  
+  + Step 8 - To perform any experiment, Click on
+    "Simulation/Experiment". Now you can start performing
+    the experiments of Virtual Labs.  
+    For example : Click on "Quick Sort". The experiment
+    opens in new window. In case if your not able to access
+    please make sure that Adobe flash is installed and
+    allowed for the web Browser.
+  + Step 9 - After Performing the experiment, make sure that
+    you note the lab name and the experiment name in the feedback form
+    document, whether it worked or not and any other remarks.
+  + Step 10 - You need to perform atleast 15 experiments
+    of any labs and note them in the feedback form
+    document. 
+  + Step 11 - Make sure that you answer 4 questions on the
+    feedback form.
+  + Step 12 - Please fill in your motivation or interest in
+    doing the experiments in the Virtual Lab, before you
+    start the experiment, then after 5 experiments, after 10
+    experiments and after 15 experiments. Rate your motivation or
+    interest on a scale of 1 to 10.
+ 
+** Submit the feedback form
+  + Step 1 - Fill the feedback form (2 Pages) document.
+  + Step 2 - You can submit in the Room No : B6 205
+* Step 2
+  Please use this [[https://github.com/virtual-labs/][link]] for the IIIT-Hyderabad lab code
+  repositories for the validation process. The IIIT
+  hyderabad labs which needs to be validated would have a
+  naming convention of <labname>-iiith.
+  + Step 1 - Go to the issues section in the [[https://github.com/virtual-labs/][lab repo]] and
+    start looking for the issues with a label
+    "2018-Open". You have to validate the fixes in these
+    issues only. Look only for the *Open* issues. the closed
+    ones in this are no longer valid for us. Do not filter
+    and try to comment on other issues.
+  For Example : [[https://github.com/virtual-labs/computer-programming-responsive-iiith/issues/158][Sample issue]]
+  + Step 2 - In every such issue, you would find a commit id and
+    responses from 2 different members saying that it is a
+    valid fix. Only if an issue has all these 3 properties,
+    you should start your final validation. If there is only
+    1 member's response saying that its a valid fix, do not
+    start validating that issue. Having 2 valid fix comments
+    in every issue is mandatory for you to go ahead.
+  + Step 3 - Go through the issue raised with all the description to
+    understand the problem very clearly so that you are in a
+    position to review the code for the fixes.
+  + Step 4 - After the identification of such issue, click on the
+    commit id provided in the earlier responses and go
+    through the code given for the fix.
+  + Step 5 - The next step for you to carry out is testing the fix on
+    the identical production environment. Setup
+    [[https://github.com/vlead/setup-ovpl-centos/blob/develop/user-docs/run-ads-using-vagrant-box.org][Auto
+    Deployment Service]] on your local machines and follow
+    the document carefully to deploy the lab. Once this is
+    successful and the lab runs identically as on
+    [[https://vlab.co.in][vlab.co.in]] we can move it to our
+    AWS servers for final deployment.
+  + Step 6 - If you find that the given fix is incorrect, please
+    comment on the same issue. If you find that the 2 other
+    validations are also incorrect, comment on the same
+    issue itself.
+  + Step 7 - If you think that the fix given is correct, you have
+    tested it on your local machines and it should be moved
+    to production, kindly comment in the same issue " *Fix
+    is validated and can be moved to production* ".
+  + Step 8 - Once the issue is ready to be moved to production from
+    your side, there won't be any other person reviewing
+    it. It would directly be made available to the end
+    users. The issue would be marked as *Closed* after this.
+
+    This is an iterative cycle and it goes on till you
+    validate all the issues fixed in the lab assigned to
+    you. Based on your final reviews, the other students who
+    are providing the fixes would be evaluated and points
+    would be given to them. This activity would be carried
+    out on every Mondays, Tuesdays and Wednesdays for you in
+    your current internship schedule itself. It is expected
+    to go on till 4th July, 2018. It should not take more
+    than 1.5 hr/day if you do it diligently for the above
+    mentioned period.
+    
+* Conclusion
+  After the validation process, the issues would be
+  considered as resolved and moved to production. At the end
+  of this we should be able to close the issues which have
+  been moved to production.
